@@ -1,0 +1,2501 @@
+Age,Gender,Region,State,Community,Vaccination_Status
+67,Female,Rural,Punjab,SC,0
+71,Female,Urban,Arunachal Pradesh,ST,1
+52,Female,Rural,Sikkim,OBC,0
+29,Female,Rural,Tripura,General,0
+64,Male,Urban,Meghalaya,ST,1
+29,Male,Urban,Madhya Pradesh,SC,1
+50,Female,Urban,Telangana,ST,0
+61,Female,Rural,Maharashtra,OBC,1
+23,Male,Urban,Himachal Pradesh,ST,1
+41,Female,Urban,Chhattisgarh,General,1
+49,Male,Urban,Goa,ST,1
+31,Female,Urban,Tripura,General,0
+57,Female,Urban,Manipur,ST,0
+21,Female,Urban,Maharashtra,General,1
+68,Male,Urban,Uttarakhand,General,1
+18,Male,Rural,Nagaland,General,0
+60,Male,Urban,Chhattisgarh,SC,1
+48,Male,Urban,Tripura,SC,1
+67,Male,Urban,Jharkhand,SC,1
+23,Female,Rural,Madhya Pradesh,SC,0
+40,Female,Urban,Manipur,ST,1
+62,Female,Rural,Tripura,General,0
+82,Female,Urban,Telangana,SC,1
+78,Male,Urban,Jharkhand,General,1
+22,Male,Urban,Mizoram,SC,1
+46,Male,Urban,Punjab,General,1
+52,Male,Rural,Uttarakhand,SC,0
+81,Male,Urban,Tamil Nadu,General,1
+22,Male,Urban,Goa,General,1
+45,Male,Urban,Arunachal Pradesh,SC,0
+48,Female,Urban,Uttarakhand,General,0
+19,Female,Rural,Manipur,General,0
+53,Female,Urban,Assam,OBC,1
+45,Female,Rural,Kerala,ST,0
+62,Female,Urban,Rajasthan,OBC,1
+31,Male,Rural,Himachal Pradesh,ST,0
+52,Female,Rural,Bihar,General,0
+84,Female,Urban,Gujarat,OBC,1
+75,Female,Rural,West Bengal,ST,0
+40,Female,Rural,Mizoram,ST,0
+31,Female,Urban,Gujarat,General,0
+46,Female,Urban,Mizoram,General,1
+68,Male,Urban,Maharashtra,OBC,1
+39,Male,Rural,West Bengal,General,0
+72,Male,Urban,Tamil Nadu,ST,1
+60,Male,Rural,Haryana,General,0
+34,Male,Rural,Telangana,OBC,0
+34,Female,Rural,Sikkim,SC,0
+29,Male,Urban,Kerala,OBC,1
+33,Male,Urban,Himachal Pradesh,OBC,1
+38,Male,Urban,West Bengal,ST,1
+70,Male,Rural,Bihar,General,0
+53,Male,Rural,Chhattisgarh,OBC,0
+50,Male,Rural,Jharkhand,SC,0
+21,Female,Urban,Karnataka,SC,1
+23,Male,Urban,Chhattisgarh,General,1
+24,Male,Urban,Assam,SC,1
+67,Male,Urban,Meghalaya,SC,1
+82,Female,Rural,Uttarakhand,ST,0
+65,Male,Rural,Gujarat,SC,0
+63,Female,Rural,Gujarat,ST,0
+56,Male,Urban,West Bengal,OBC,1
+74,Female,Urban,Gujarat,SC,1
+82,Male,Rural,Jharkhand,General,0
+35,Male,Rural,Uttar Pradesh,ST,0
+27,Female,Urban,Uttar Pradesh,SC,0
+61,Female,Rural,Telangana,SC,0
+56,Male,Urban,Meghalaya,OBC,1
+65,Male,Rural,Jharkhand,OBC,0
+50,Female,Urban,Jharkhand,ST,0
+70,Female,Urban,Tamil Nadu,OBC,1
+23,Female,Rural,Uttar Pradesh,OBC,0
+38,Male,Urban,Goa,General,1
+70,Male,Urban,Haryana,ST,1
+73,Female,Urban,Tamil Nadu,OBC,1
+39,Male,Rural,Kerala,OBC,0
+59,Male,Rural,Meghalaya,ST,0
+56,Male,Urban,Tamil Nadu,General,1
+39,Male,Urban,Karnataka,ST,1
+79,Male,Rural,Uttarakhand,General,0
+21,Female,Rural,Meghalaya,SC,0
+35,Female,Rural,Rajasthan,OBC,0
+34,Female,Rural,Assam,ST,0
+76,Male,Rural,Nagaland,General,0
+57,Female,Urban,Manipur,ST,0
+45,Male,Rural,Haryana,OBC,0
+18,Male,Rural,Rajasthan,General,0
+47,Male,Rural,Assam,ST,0
+85,Male,Urban,Haryana,General,1
+83,Female,Urban,Goa,General,1
+39,Male,Rural,Goa,ST,0
+25,Female,Urban,Uttarakhand,General,1
+20,Female,Rural,Odisha,General,0
+30,Male,Urban,Tripura,General,1
+65,Female,Urban,Telangana,ST,1
+48,Male,Urban,Maharashtra,SC,0
+79,Male,Urban,Himachal Pradesh,SC,1
+25,Female,Urban,Haryana,General,0
+35,Female,Urban,Telangana,General,0
+71,Female,Rural,Tamil Nadu,ST,0
+67,Female,Urban,Mizoram,OBC,0
+60,Male,Urban,Odisha,General,1
+32,Female,Rural,Telangana,SC,0
+42,Male,Rural,Andhra Pradesh,SC,0
+34,Male,Urban,Nagaland,General,1
+27,Female,Rural,Arunachal Pradesh,OBC,0
+66,Male,Urban,Madhya Pradesh,General,1
+44,Male,Rural,Meghalaya,OBC,0
+52,Female,Urban,Nagaland,SC,0
+49,Male,Urban,Bihar,ST,1
+38,Male,Urban,Himachal Pradesh,ST,1
+42,Male,Urban,Madhya Pradesh,OBC,0
+36,Female,Urban,Odisha,OBC,0
+37,Male,Rural,Bihar,General,0
+35,Male,Rural,Assam,General,0
+37,Female,Urban,Meghalaya,General,0
+81,Female,Rural,West Bengal,ST,0
+19,Male,Urban,Telangana,ST,1
+35,Male,Urban,Punjab,OBC,1
+30,Male,Urban,Himachal Pradesh,SC,1
+65,Female,Rural,Gujarat,SC,0
+69,Female,Urban,Meghalaya,SC,1
+55,Female,Urban,Karnataka,ST,1
+51,Male,Rural,Goa,General,0
+59,Female,Rural,Goa,OBC,0
+77,Male,Rural,Madhya Pradesh,SC,0
+49,Male,Rural,Nagaland,SC,0
+26,Male,Rural,Jharkhand,OBC,0
+49,Female,Urban,Tripura,SC,0
+41,Male,Urban,Andhra Pradesh,General,1
+70,Male,Rural,Sikkim,SC,0
+85,Female,Urban,Tamil Nadu,OBC,1
+74,Female,Rural,Andhra Pradesh,General,0
+33,Male,Rural,Bihar,ST,0
+25,Male,Urban,Haryana,General,1
+44,Male,Urban,Rajasthan,ST,1
+46,Male,Rural,Arunachal Pradesh,ST,0
+76,Female,Urban,Nagaland,ST,0
+61,Female,Rural,Odisha,General,0
+66,Female,Rural,Uttar Pradesh,OBC,0
+32,Female,Rural,Uttar Pradesh,OBC,0
+30,Male,Urban,Telangana,ST,1
+32,Female,Urban,Karnataka,SC,0
+33,Male,Urban,Tamil Nadu,SC,0
+22,Male,Rural,Goa,General,0
+67,Female,Rural,Rajasthan,ST,0
+60,Male,Rural,Gujarat,General,0
+70,Male,Urban,Gujarat,SC,1
+62,Male,Urban,Meghalaya,SC,1
+21,Male,Urban,Tamil Nadu,SC,1
+51,Female,Urban,Uttarakhand,ST,0
+62,Male,Rural,Bihar,SC,0
+25,Female,Urban,Odisha,OBC,1
+79,Female,Rural,Jharkhand,OBC,0
+57,Male,Rural,Gujarat,ST,0
+73,Male,Rural,Gujarat,OBC,1
+26,Female,Rural,Andhra Pradesh,ST,0
+42,Female,Rural,Haryana,SC,0
+82,Male,Rural,Bihar,ST,1
+64,Male,Urban,Karnataka,OBC,1
+65,Female,Urban,Meghalaya,SC,0
+52,Male,Urban,Jharkhand,OBC,0
+68,Female,Urban,Uttar Pradesh,General,1
+33,Female,Rural,Meghalaya,OBC,0
+57,Female,Urban,Uttarakhand,ST,1
+57,Male,Rural,Maharashtra,SC,0
+79,Female,Rural,Tripura,OBC,0
+59,Male,Rural,Punjab,SC,0
+53,Male,Urban,Haryana,General,1
+20,Male,Urban,Tripura,OBC,1
+76,Female,Urban,Andhra Pradesh,ST,1
+69,Male,Rural,Tamil Nadu,ST,1
+84,Male,Rural,Mizoram,OBC,0
+35,Male,Urban,Andhra Pradesh,ST,1
+30,Female,Rural,Kerala,ST,0
+42,Female,Urban,Assam,General,1
+72,Female,Urban,Kerala,OBC,1
+80,Male,Rural,Himachal Pradesh,OBC,0
+75,Male,Urban,Andhra Pradesh,ST,1
+67,Male,Rural,Tripura,General,0
+49,Male,Urban,Goa,SC,0
+77,Male,Urban,Andhra Pradesh,OBC,1
+28,Male,Urban,Arunachal Pradesh,ST,1
+47,Female,Urban,Tamil Nadu,General,0
+80,Male,Rural,Manipur,OBC,1
+41,Female,Rural,Bihar,OBC,0
+21,Male,Urban,Kerala,ST,1
+42,Female,Rural,Andhra Pradesh,SC,0
+28,Male,Urban,Jharkhand,OBC,1
+34,Female,Rural,Haryana,ST,0
+58,Female,Rural,Jharkhand,General,0
+84,Female,Urban,Gujarat,ST,1
+55,Male,Rural,Telangana,ST,0
+58,Male,Rural,Odisha,OBC,0
+26,Male,Urban,Assam,SC,0
+62,Male,Rural,West Bengal,OBC,0
+74,Female,Urban,Odisha,General,0
+27,Male,Urban,Nagaland,General,1
+35,Male,Rural,Bihar,SC,0
+38,Male,Rural,West Bengal,ST,1
+49,Male,Rural,Meghalaya,General,0
+37,Male,Urban,Mizoram,OBC,0
+37,Male,Urban,Telangana,General,1
+52,Male,Urban,Himachal Pradesh,SC,1
+39,Male,Urban,Karnataka,General,1
+25,Female,Rural,Nagaland,OBC,0
+47,Female,Urban,Mizoram,OBC,0
+74,Female,Urban,Maharashtra,General,1
+68,Female,Urban,Punjab,ST,1
+36,Female,Rural,Madhya Pradesh,General,0
+20,Female,Urban,Jharkhand,SC,0
+37,Male,Rural,Karnataka,SC,0
+44,Female,Urban,Gujarat,ST,1
+73,Female,Rural,Meghalaya,General,0
+26,Female,Rural,Assam,OBC,0
+62,Male,Rural,Himachal Pradesh,SC,0
+55,Female,Urban,Haryana,OBC,0
+19,Female,Urban,Kerala,OBC,1
+58,Female,Rural,Gujarat,General,0
+62,Male,Urban,Nagaland,SC,1
+59,Female,Urban,Meghalaya,OBC,0
+82,Female,Rural,Uttarakhand,ST,0
+20,Male,Rural,Chhattisgarh,SC,0
+55,Male,Rural,Uttar Pradesh,OBC,0
+60,Male,Rural,Maharashtra,ST,1
+60,Male,Rural,Rajasthan,General,0
+69,Male,Rural,Goa,ST,0
+31,Female,Urban,Andhra Pradesh,ST,0
+38,Female,Urban,Andhra Pradesh,SC,0
+79,Female,Urban,Kerala,ST,1
+18,Female,Urban,Arunachal Pradesh,ST,1
+48,Male,Urban,Maharashtra,General,1
+46,Female,Rural,Tripura,General,0
+77,Female,Rural,Manipur,OBC,0
+29,Male,Urban,Andhra Pradesh,ST,1
+67,Male,Rural,Andhra Pradesh,SC,0
+32,Male,Urban,West Bengal,OBC,1
+25,Male,Urban,Uttar Pradesh,SC,1
+52,Female,Urban,Bihar,SC,0
+38,Male,Urban,Nagaland,General,1
+42,Male,Urban,West Bengal,SC,1
+61,Female,Rural,Kerala,SC,0
+50,Male,Rural,Sikkim,ST,0
+33,Male,Urban,Gujarat,General,1
+48,Female,Urban,Haryana,SC,0
+41,Male,Urban,Nagaland,OBC,1
+29,Female,Rural,Odisha,OBC,0
+47,Female,Urban,Manipur,SC,0
+83,Female,Rural,Gujarat,General,0
+64,Female,Urban,Himachal Pradesh,General,1
+73,Male,Rural,Chhattisgarh,OBC,1
+41,Female,Urban,Uttar Pradesh,General,0
+42,Male,Rural,Tripura,ST,0
+81,Female,Urban,Telangana,General,1
+60,Male,Urban,Bihar,OBC,1
+34,Female,Urban,Himachal Pradesh,General,0
+64,Male,Urban,Rajasthan,SC,1
+35,Male,Rural,Rajasthan,ST,0
+43,Male,Urban,Meghalaya,OBC,0
+58,Female,Urban,Andhra Pradesh,ST,0
+57,Female,Urban,Telangana,OBC,0
+52,Female,Urban,Uttarakhand,General,0
+48,Male,Urban,Himachal Pradesh,General,1
+65,Male,Urban,Telangana,General,1
+42,Female,Rural,Andhra Pradesh,SC,0
+21,Male,Urban,Uttar Pradesh,OBC,1
+67,Male,Rural,Jharkhand,OBC,1
+72,Female,Urban,Himachal Pradesh,SC,0
+62,Male,Urban,Andhra Pradesh,SC,1
+72,Male,Urban,Karnataka,OBC,1
+47,Female,Rural,Rajasthan,OBC,0
+51,Male,Rural,Bihar,OBC,0
+35,Female,Urban,Rajasthan,SC,0
+20,Male,Rural,Bihar,General,0
+51,Female,Urban,West Bengal,ST,1
+45,Male,Urban,Rajasthan,ST,0
+48,Female,Urban,Goa,General,0
+18,Female,Urban,Chhattisgarh,General,1
+81,Female,Rural,Haryana,OBC,0
+35,Female,Rural,Punjab,SC,0
+51,Female,Urban,Chhattisgarh,OBC,1
+50,Male,Urban,Sikkim,ST,0
+45,Male,Urban,Haryana,General,0
+78,Female,Rural,Uttarakhand,ST,0
+28,Male,Urban,Uttarakhand,ST,1
+66,Male,Urban,Mizoram,SC,1
+23,Female,Urban,Uttarakhand,OBC,1
+61,Male,Rural,Mizoram,ST,0
+50,Male,Urban,Gujarat,General,1
+71,Male,Urban,Madhya Pradesh,General,1
+69,Male,Rural,Tamil Nadu,SC,0
+37,Female,Rural,Kerala,OBC,0
+18,Female,Urban,Kerala,General,1
+64,Female,Urban,Tamil Nadu,ST,1
+69,Male,Rural,Kerala,ST,0
+29,Male,Urban,Maharashtra,SC,1
+19,Female,Urban,Goa,OBC,0
+20,Female,Rural,Bihar,SC,0
+56,Male,Rural,Haryana,General,0
+57,Male,Rural,Nagaland,OBC,0
+41,Male,Rural,Mizoram,ST,0
+36,Male,Urban,Jharkhand,General,1
+67,Female,Urban,Tripura,SC,0
+68,Female,Rural,Telangana,General,0
+65,Female,Rural,Gujarat,General,0
+49,Male,Urban,Madhya Pradesh,SC,0
+27,Female,Urban,Andhra Pradesh,General,0
+56,Female,Urban,Goa,ST,1
+76,Male,Rural,Rajasthan,OBC,0
+21,Male,Urban,Karnataka,OBC,1
+22,Male,Urban,Odisha,OBC,1
+44,Female,Urban,Himachal Pradesh,SC,1
+38,Male,Urban,Gujarat,ST,1
+47,Male,Rural,Chhattisgarh,General,0
+71,Male,Rural,Uttarakhand,ST,0
+67,Male,Urban,Nagaland,OBC,1
+37,Female,Rural,Telangana,ST,0
+73,Male,Rural,Rajasthan,SC,0
+32,Female,Rural,Mizoram,General,0
+84,Male,Rural,Goa,OBC,1
+44,Female,Rural,Chhattisgarh,ST,0
+45,Female,Rural,Mizoram,General,0
+28,Male,Urban,Bihar,SC,0
+42,Female,Rural,Sikkim,General,0
+55,Male,Rural,Karnataka,ST,0
+41,Female,Rural,Kerala,ST,0
+50,Male,Rural,Punjab,SC,0
+25,Female,Urban,Manipur,OBC,0
+31,Male,Urban,Assam,ST,1
+77,Female,Rural,West Bengal,OBC,0
+71,Female,Rural,Karnataka,ST,1
+51,Female,Rural,Uttar Pradesh,SC,0
+31,Female,Rural,Uttar Pradesh,SC,0
+63,Female,Urban,Rajasthan,OBC,0
+25,Female,Urban,Himachal Pradesh,ST,1
+51,Male,Urban,Bihar,OBC,1
+54,Male,Rural,Meghalaya,ST,0
+22,Male,Rural,Jharkhand,SC,0
+43,Female,Rural,Maharashtra,OBC,0
+84,Female,Rural,Karnataka,SC,0
+30,Male,Urban,Bihar,OBC,1
+71,Male,Urban,Meghalaya,ST,1
+43,Female,Urban,Meghalaya,General,0
+76,Female,Rural,Telangana,General,0
+46,Male,Rural,Telangana,ST,0
+83,Male,Urban,Odisha,General,1
+42,Male,Rural,Jharkhand,General,0
+30,Female,Urban,Karnataka,General,1
+62,Female,Urban,Uttarakhand,ST,1
+85,Male,Urban,Nagaland,General,1
+66,Female,Rural,Madhya Pradesh,SC,0
+56,Male,Rural,Meghalaya,ST,0
+56,Male,Rural,Haryana,General,1
+40,Male,Rural,Telangana,SC,0
+52,Male,Rural,Nagaland,General,0
+70,Male,Urban,Madhya Pradesh,SC,0
+32,Female,Urban,Kerala,ST,1
+25,Male,Urban,West Bengal,SC,1
+27,Female,Rural,Andhra Pradesh,ST,0
+21,Female,Urban,Madhya Pradesh,OBC,1
+45,Male,Urban,Maharashtra,ST,1
+29,Female,Rural,Gujarat,General,1
+70,Female,Urban,Tripura,ST,1
+75,Male,Urban,Tamil Nadu,General,1
+19,Female,Rural,Sikkim,General,0
+79,Male,Rural,Madhya Pradesh,General,1
+45,Female,Urban,West Bengal,SC,1
+35,Male,Urban,Rajasthan,General,1
+32,Male,Urban,Kerala,SC,0
+27,Female,Rural,Himachal Pradesh,SC,0
+21,Male,Urban,Tripura,ST,1
+51,Male,Rural,Goa,SC,0
+29,Female,Rural,Karnataka,OBC,0
+20,Male,Rural,Chhattisgarh,SC,0
+18,Female,Urban,Himachal Pradesh,ST,1
+78,Female,Urban,Karnataka,General,1
+24,Male,Urban,Jharkhand,SC,0
+37,Male,Urban,Maharashtra,General,1
+77,Male,Urban,Jharkhand,OBC,1
+49,Female,Urban,Manipur,General,1
+28,Female,Urban,Odisha,General,0
+75,Male,Rural,Punjab,OBC,1
+60,Male,Rural,Maharashtra,ST,1
+56,Male,Urban,Meghalaya,General,1
+25,Male,Rural,Himachal Pradesh,SC,0
+75,Male,Rural,Uttar Pradesh,ST,0
+20,Female,Rural,Assam,General,0
+56,Male,Urban,Andhra Pradesh,SC,1
+34,Female,Urban,Uttar Pradesh,OBC,0
+38,Male,Urban,Tamil Nadu,SC,1
+59,Female,Urban,Odisha,General,0
+57,Male,Rural,Odisha,General,0
+40,Female,Rural,Maharashtra,ST,0
+55,Female,Urban,Madhya Pradesh,SC,0
+49,Female,Rural,Assam,General,0
+73,Female,Urban,Andhra Pradesh,SC,0
+44,Male,Urban,Goa,SC,0
+74,Female,Urban,Himachal Pradesh,OBC,1
+80,Female,Rural,Meghalaya,General,0
+47,Female,Urban,Manipur,OBC,0
+33,Male,Rural,West Bengal,OBC,0
+68,Male,Rural,Rajasthan,OBC,0
+66,Female,Rural,Goa,OBC,0
+35,Male,Rural,Nagaland,OBC,0
+42,Male,Urban,Haryana,OBC,1
+21,Female,Urban,Madhya Pradesh,ST,1
+69,Male,Rural,Rajasthan,SC,0
+36,Male,Urban,Odisha,General,1
+51,Male,Rural,Goa,OBC,0
+56,Female,Urban,Karnataka,OBC,0
+38,Male,Urban,Meghalaya,ST,0
+50,Female,Rural,Manipur,General,0
+59,Female,Urban,Punjab,General,0
+45,Female,Rural,Arunachal Pradesh,General,0
+39,Male,Rural,Rajasthan,General,1
+60,Female,Urban,West Bengal,OBC,1
+50,Female,Rural,Manipur,OBC,0
+30,Female,Urban,West Bengal,SC,0
+54,Female,Urban,Himachal Pradesh,ST,0
+34,Female,Urban,Odisha,SC,0
+77,Female,Rural,Karnataka,General,0
+29,Male,Rural,Meghalaya,OBC,0
+64,Male,Rural,Maharashtra,General,1
+45,Male,Rural,Andhra Pradesh,ST,0
+62,Male,Rural,Odisha,General,0
+63,Female,Urban,Manipur,ST,0
+52,Male,Urban,Telangana,OBC,1
+60,Male,Rural,Telangana,OBC,1
+61,Male,Urban,Odisha,OBC,1
+35,Female,Urban,Mizoram,ST,1
+19,Male,Rural,Assam,OBC,0
+38,Female,Urban,Andhra Pradesh,ST,1
+42,Male,Rural,Punjab,SC,0
+36,Female,Urban,Rajasthan,OBC,0
+57,Male,Urban,Assam,SC,1
+42,Male,Urban,Karnataka,General,1
+55,Male,Urban,Himachal Pradesh,General,1
+47,Male,Urban,Punjab,ST,1
+55,Female,Urban,Goa,ST,0
+70,Male,Rural,West Bengal,ST,1
+72,Male,Urban,Goa,OBC,1
+33,Female,Rural,Manipur,General,0
+68,Female,Rural,Jharkhand,OBC,0
+81,Female,Rural,Uttarakhand,OBC,0
+24,Female,Urban,Nagaland,General,1
+45,Male,Urban,Rajasthan,OBC,1
+31,Female,Urban,Bihar,OBC,0
+34,Male,Rural,Manipur,ST,0
+32,Male,Rural,Mizoram,OBC,0
+27,Female,Rural,Uttarakhand,ST,0
+27,Male,Urban,Karnataka,ST,1
+47,Male,Rural,Goa,OBC,0
+31,Female,Urban,Andhra Pradesh,SC,0
+51,Male,Urban,Goa,ST,1
+25,Male,Urban,Manipur,OBC,1
+70,Male,Rural,Kerala,SC,0
+70,Male,Urban,Arunachal Pradesh,OBC,1
+20,Male,Urban,Tamil Nadu,General,1
+58,Male,Rural,Bihar,ST,0
+30,Female,Urban,Andhra Pradesh,General,1
+49,Male,Urban,Maharashtra,SC,0
+32,Female,Rural,Jharkhand,SC,0
+40,Male,Rural,Telangana,OBC,0
+39,Female,Rural,Gujarat,OBC,0
+18,Male,Rural,Haryana,SC,0
+24,Male,Urban,Mizoram,ST,1
+85,Male,Rural,Madhya Pradesh,SC,0
+62,Male,Urban,Uttar Pradesh,General,1
+66,Male,Rural,Maharashtra,General,1
+25,Male,Urban,Andhra Pradesh,General,1
+67,Male,Rural,Assam,General,1
+71,Male,Urban,Andhra Pradesh,OBC,1
+41,Female,Rural,Kerala,OBC,0
+28,Male,Rural,Uttar Pradesh,SC,0
+56,Female,Urban,Odisha,General,0
+39,Female,Rural,Assam,OBC,0
+55,Male,Rural,Jharkhand,OBC,0
+36,Female,Rural,Bihar,ST,0
+31,Male,Rural,Nagaland,SC,0
+24,Male,Rural,Tamil Nadu,OBC,0
+83,Male,Urban,Himachal Pradesh,ST,1
+23,Male,Urban,Telangana,OBC,1
+81,Male,Rural,Jharkhand,General,0
+85,Female,Rural,Nagaland,ST,0
+59,Female,Rural,Goa,ST,0
+73,Female,Urban,Rajasthan,SC,0
+18,Female,Rural,Goa,SC,0
+42,Male,Urban,Nagaland,OBC,1
+67,Male,Rural,Telangana,General,1
+31,Male,Urban,Nagaland,OBC,1
+79,Male,Rural,Mizoram,OBC,0
+57,Female,Rural,Madhya Pradesh,OBC,0
+56,Female,Urban,Chhattisgarh,OBC,0
+44,Female,Urban,Jharkhand,OBC,1
+50,Male,Urban,Meghalaya,ST,1
+52,Female,Urban,Goa,General,1
+61,Female,Urban,Karnataka,SC,1
+32,Female,Urban,Tamil Nadu,OBC,1
+33,Female,Rural,Jharkhand,OBC,0
+32,Female,Rural,Telangana,SC,0
+24,Female,Rural,Telangana,OBC,0
+76,Male,Rural,Manipur,ST,1
+25,Male,Urban,West Bengal,General,1
+52,Male,Rural,Kerala,OBC,0
+25,Female,Rural,Karnataka,General,0
+80,Male,Rural,Punjab,OBC,1
+57,Female,Rural,Telangana,SC,0
+76,Male,Urban,Jharkhand,OBC,1
+49,Female,Urban,Bihar,OBC,0
+30,Male,Rural,Assam,OBC,0
+25,Female,Urban,Manipur,ST,1
+61,Female,Urban,Telangana,SC,1
+46,Male,Urban,Manipur,General,1
+47,Male,Urban,Uttarakhand,General,1
+53,Male,Urban,Meghalaya,ST,1
+68,Female,Urban,Nagaland,General,0
+44,Female,Urban,Tripura,OBC,0
+44,Female,Rural,Goa,SC,0
+21,Male,Urban,Assam,SC,1
+73,Male,Urban,Gujarat,General,1
+51,Male,Urban,Odisha,ST,1
+85,Male,Rural,Manipur,ST,1
+53,Female,Urban,Bihar,General,0
+46,Female,Urban,West Bengal,ST,0
+79,Male,Urban,Sikkim,SC,1
+70,Male,Urban,West Bengal,SC,1
+40,Male,Rural,Gujarat,ST,1
+49,Male,Rural,Telangana,OBC,0
+41,Male,Rural,Odisha,OBC,0
+30,Female,Urban,Assam,ST,0
+67,Male,Rural,Meghalaya,ST,0
+61,Female,Urban,Bihar,SC,0
+39,Female,Rural,Punjab,SC,0
+48,Female,Rural,Madhya Pradesh,ST,0
+77,Male,Urban,Telangana,OBC,1
+78,Female,Rural,Arunachal Pradesh,ST,0
+36,Female,Urban,Uttarakhand,SC,0
+73,Female,Urban,West Bengal,SC,0
+82,Female,Rural,Kerala,General,0
+71,Female,Rural,Gujarat,ST,1
+61,Male,Urban,Tripura,OBC,1
+63,Female,Urban,Arunachal Pradesh,ST,1
+48,Female,Rural,Rajasthan,General,0
+66,Female,Rural,Tripura,OBC,0
+78,Male,Urban,Manipur,ST,1
+81,Male,Rural,Tripura,SC,1
+31,Female,Urban,Karnataka,General,1
+50,Female,Rural,Maharashtra,ST,0
+25,Female,Rural,Tamil Nadu,SC,0
+60,Female,Urban,Uttar Pradesh,General,1
+22,Male,Urban,Jharkhand,OBC,1
+34,Male,Urban,Manipur,ST,1
+77,Male,Rural,Jharkhand,ST,1
+20,Male,Rural,Maharashtra,ST,1
+21,Male,Urban,Tripura,General,1
+58,Female,Urban,Andhra Pradesh,General,1
+37,Male,Rural,Tamil Nadu,SC,0
+27,Female,Rural,Manipur,ST,0
+83,Male,Rural,Chhattisgarh,General,0
+64,Male,Urban,Karnataka,ST,1
+76,Female,Rural,Haryana,ST,0
+58,Male,Urban,Manipur,General,1
+77,Female,Rural,Andhra Pradesh,General,0
+70,Female,Urban,Uttarakhand,OBC,1
+79,Male,Urban,Punjab,OBC,1
+50,Male,Urban,Kerala,SC,0
+60,Female,Rural,Punjab,ST,0
+71,Female,Urban,Jharkhand,SC,0
+66,Female,Urban,West Bengal,OBC,1
+30,Female,Rural,Telangana,OBC,0
+66,Male,Urban,Madhya Pradesh,ST,1
+29,Female,Urban,Tamil Nadu,OBC,1
+77,Male,Rural,Telangana,ST,0
+28,Male,Rural,Himachal Pradesh,SC,0
+64,Female,Rural,West Bengal,SC,0
+32,Male,Rural,Rajasthan,General,0
+79,Female,Rural,Kerala,SC,0
+68,Male,Rural,Uttar Pradesh,General,1
+36,Male,Rural,Jharkhand,SC,0
+50,Female,Rural,Assam,OBC,0
+73,Female,Urban,Goa,SC,0
+67,Male,Rural,Goa,SC,0
+65,Male,Urban,Maharashtra,ST,1
+53,Female,Urban,Punjab,SC,0
+21,Male,Rural,Kerala,General,0
+27,Male,Rural,Meghalaya,General,1
+47,Female,Rural,Telangana,SC,0
+74,Female,Rural,Maharashtra,OBC,1
+78,Female,Rural,Madhya Pradesh,OBC,0
+81,Female,Urban,Rajasthan,General,1
+72,Male,Rural,Goa,OBC,1
+66,Female,Rural,Assam,OBC,1
+57,Male,Urban,Rajasthan,SC,0
+20,Female,Urban,Odisha,OBC,0
+65,Male,Rural,Tamil Nadu,OBC,1
+45,Female,Rural,Arunachal Pradesh,SC,0
+42,Male,Rural,West Bengal,SC,0
+70,Female,Rural,Jharkhand,OBC,0
+67,Male,Rural,Goa,SC,1
+20,Male,Urban,Karnataka,OBC,1
+26,Female,Rural,Telangana,OBC,0
+24,Male,Rural,Chhattisgarh,ST,1
+58,Female,Rural,Haryana,General,0
+82,Female,Rural,Goa,OBC,1
+41,Male,Rural,Himachal Pradesh,ST,0
+82,Female,Urban,Sikkim,General,1
+57,Female,Rural,Madhya Pradesh,General,0
+69,Male,Urban,Punjab,OBC,1
+73,Female,Rural,Uttarakhand,SC,0
+58,Male,Urban,Haryana,General,1
+70,Male,Rural,Punjab,General,1
+79,Male,Urban,Tripura,SC,1
+52,Male,Rural,Haryana,General,0
+26,Female,Rural,Kerala,General,0
+23,Male,Rural,Nagaland,ST,0
+36,Male,Rural,Assam,SC,0
+30,Female,Urban,Haryana,SC,0
+69,Male,Urban,Bihar,OBC,1
+57,Male,Rural,Himachal Pradesh,General,0
+28,Male,Rural,Jharkhand,OBC,0
+72,Male,Rural,Manipur,OBC,1
+73,Male,Urban,Himachal Pradesh,General,1
+34,Male,Rural,Meghalaya,SC,0
+45,Male,Rural,Goa,SC,0
+31,Male,Urban,Manipur,SC,0
+74,Male,Rural,Sikkim,OBC,0
+30,Male,Rural,Odisha,SC,0
+72,Female,Urban,Andhra Pradesh,OBC,1
+32,Male,Rural,Bihar,OBC,0
+79,Female,Urban,Kerala,General,0
+43,Male,Rural,Uttarakhand,General,0
+41,Male,Urban,Tripura,SC,1
+30,Male,Rural,Maharashtra,OBC,0
+21,Female,Rural,Mizoram,General,0
+77,Male,Urban,Tripura,ST,1
+85,Female,Urban,Bihar,ST,1
+33,Female,Urban,Odisha,SC,0
+31,Male,Urban,West Bengal,SC,1
+21,Female,Rural,Kerala,OBC,0
+49,Male,Rural,Arunachal Pradesh,SC,0
+34,Female,Rural,Tamil Nadu,General,0
+19,Female,Urban,Jharkhand,OBC,1
+25,Male,Urban,Punjab,ST,1
+60,Female,Urban,Haryana,SC,1
+57,Male,Urban,Telangana,General,1
+62,Male,Urban,Telangana,SC,1
+57,Female,Rural,Madhya Pradesh,SC,0
+83,Male,Urban,Rajasthan,OBC,1
+25,Female,Urban,Punjab,General,1
+84,Female,Rural,Tamil Nadu,SC,0
+60,Female,Rural,Goa,ST,0
+65,Female,Rural,Goa,ST,1
+60,Female,Rural,Sikkim,General,0
+71,Male,Urban,Uttarakhand,SC,1
+59,Male,Urban,Meghalaya,ST,1
+78,Male,Rural,Andhra Pradesh,ST,0
+80,Male,Urban,Uttar Pradesh,ST,1
+29,Male,Urban,Nagaland,OBC,1
+50,Female,Rural,Gujarat,OBC,0
+76,Female,Rural,Karnataka,General,1
+47,Male,Rural,Bihar,General,0
+28,Male,Urban,Goa,ST,1
+85,Male,Urban,Tripura,OBC,1
+63,Male,Rural,Karnataka,ST,1
+39,Male,Rural,Mizoram,OBC,0
+44,Male,Rural,Uttarakhand,General,0
+49,Female,Rural,Haryana,OBC,0
+41,Male,Rural,Jharkhand,OBC,0
+81,Male,Rural,Arunachal Pradesh,General,0
+71,Male,Rural,Tamil Nadu,General,1
+50,Male,Urban,Goa,ST,1
+65,Female,Rural,Uttar Pradesh,ST,1
+56,Male,Rural,Mizoram,General,0
+32,Male,Urban,Meghalaya,OBC,1
+84,Male,Rural,Haryana,OBC,0
+52,Male,Rural,Punjab,SC,0
+35,Female,Urban,Haryana,SC,0
+71,Male,Rural,Karnataka,ST,0
+25,Male,Urban,Maharashtra,OBC,1
+57,Male,Urban,West Bengal,SC,0
+59,Female,Rural,Uttarakhand,SC,0
+85,Male,Urban,Mizoram,SC,0
+31,Male,Rural,Maharashtra,SC,0
+42,Male,Rural,Kerala,General,0
+54,Male,Rural,West Bengal,OBC,0
+49,Male,Urban,Kerala,SC,0
+76,Male,Rural,Arunachal Pradesh,SC,0
+74,Male,Urban,Punjab,SC,0
+18,Male,Rural,Telangana,SC,0
+22,Female,Rural,Andhra Pradesh,SC,0
+44,Male,Urban,Chhattisgarh,ST,0
+81,Female,Rural,Punjab,General,0
+69,Female,Urban,West Bengal,SC,1
+18,Male,Rural,Karnataka,OBC,1
+53,Female,Urban,Gujarat,General,1
+52,Male,Urban,Uttarakhand,SC,1
+42,Male,Urban,Nagaland,ST,1
+64,Female,Rural,Tamil Nadu,ST,0
+85,Male,Urban,Assam,ST,1
+50,Female,Urban,Andhra Pradesh,ST,0
+49,Female,Urban,Himachal Pradesh,SC,0
+43,Female,Urban,Andhra Pradesh,SC,0
+41,Female,Urban,Manipur,ST,0
+35,Female,Rural,Gujarat,ST,0
+84,Female,Urban,Andhra Pradesh,General,0
+59,Female,Rural,Goa,General,0
+61,Female,Urban,Manipur,OBC,0
+59,Male,Rural,Punjab,ST,0
+80,Male,Rural,Bihar,SC,0
+70,Male,Rural,Jharkhand,ST,0
+22,Female,Rural,Mizoram,General,0
+79,Female,Rural,Himachal Pradesh,General,0
+40,Female,Rural,Arunachal Pradesh,ST,0
+51,Female,Rural,Arunachal Pradesh,OBC,0
+28,Male,Urban,Punjab,OBC,1
+78,Female,Urban,Andhra Pradesh,General,1
+34,Female,Rural,Karnataka,General,0
+19,Female,Urban,Sikkim,SC,0
+69,Female,Urban,Nagaland,General,1
+46,Male,Rural,Odisha,ST,0
+24,Male,Rural,West Bengal,General,1
+74,Female,Rural,Maharashtra,ST,0
+51,Female,Rural,Maharashtra,OBC,0
+64,Female,Urban,Punjab,ST,1
+73,Male,Urban,Meghalaya,General,1
+28,Female,Rural,Karnataka,ST,0
+22,Female,Rural,Rajasthan,ST,0
+54,Male,Urban,Tripura,ST,1
+35,Male,Rural,Andhra Pradesh,SC,0
+54,Female,Rural,Himachal Pradesh,OBC,0
+31,Male,Urban,Madhya Pradesh,OBC,1
+28,Female,Urban,Karnataka,ST,1
+66,Male,Urban,Telangana,SC,0
+76,Male,Urban,Goa,OBC,1
+79,Female,Urban,Gujarat,ST,1
+75,Female,Urban,Goa,SC,1
+18,Female,Rural,Tripura,ST,0
+45,Female,Rural,Jharkhand,General,0
+34,Female,Rural,Goa,ST,0
+75,Male,Urban,Telangana,General,1
+85,Female,Urban,Tamil Nadu,ST,1
+52,Male,Urban,Arunachal Pradesh,General,1
+68,Male,Urban,Sikkim,General,1
+41,Male,Urban,Rajasthan,OBC,1
+31,Male,Rural,West Bengal,OBC,0
+40,Male,Urban,Kerala,ST,1
+40,Female,Urban,Telangana,OBC,1
+79,Male,Urban,Madhya Pradesh,General,1
+34,Female,Urban,Karnataka,ST,0
+21,Female,Urban,Madhya Pradesh,General,1
+43,Male,Rural,West Bengal,ST,0
+23,Female,Rural,Haryana,SC,0
+74,Female,Rural,Kerala,OBC,0
+70,Female,Rural,Assam,ST,0
+42,Female,Urban,Himachal Pradesh,ST,0
+82,Male,Urban,Odisha,ST,1
+79,Male,Rural,Odisha,ST,0
+64,Female,Rural,Tamil Nadu,OBC,0
+30,Female,Rural,Rajasthan,OBC,0
+30,Female,Rural,Odisha,SC,0
+74,Female,Urban,Tripura,OBC,1
+66,Male,Urban,Kerala,SC,1
+48,Male,Urban,West Bengal,SC,0
+85,Female,Urban,Assam,ST,1
+41,Female,Urban,Gujarat,OBC,0
+28,Female,Rural,Sikkim,OBC,0
+78,Male,Rural,Tamil Nadu,SC,0
+61,Female,Urban,Odisha,OBC,0
+81,Female,Urban,Meghalaya,SC,1
+47,Female,Rural,Uttar Pradesh,SC,0
+78,Female,Rural,Karnataka,SC,0
+71,Male,Rural,Tamil Nadu,SC,0
+60,Male,Rural,Karnataka,General,1
+66,Male,Urban,Assam,ST,1
+64,Female,Urban,Madhya Pradesh,SC,0
+82,Female,Rural,West Bengal,OBC,0
+26,Female,Rural,Arunachal Pradesh,SC,0
+81,Female,Rural,Madhya Pradesh,General,0
+71,Female,Urban,Himachal Pradesh,SC,1
+20,Male,Urban,Telangana,General,1
+25,Male,Urban,Assam,SC,1
+84,Male,Urban,Madhya Pradesh,SC,1
+22,Male,Rural,Telangana,OBC,0
+61,Male,Urban,Haryana,SC,1
+33,Male,Urban,Arunachal Pradesh,SC,0
+31,Female,Rural,Chhattisgarh,SC,0
+61,Male,Urban,Andhra Pradesh,General,1
+58,Female,Urban,Tripura,ST,0
+18,Female,Rural,Gujarat,OBC,0
+20,Male,Urban,Mizoram,SC,1
+65,Male,Urban,Gujarat,General,1
+62,Female,Urban,Rajasthan,General,1
+39,Female,Urban,Tripura,ST,1
+72,Male,Urban,Karnataka,SC,1
+83,Female,Urban,Haryana,ST,1
+82,Male,Rural,Tripura,OBC,0
+58,Female,Urban,Odisha,SC,0
+65,Female,Rural,Odisha,OBC,0
+38,Male,Rural,Haryana,OBC,0
+71,Female,Urban,Karnataka,OBC,1
+21,Female,Rural,Andhra Pradesh,General,0
+42,Male,Rural,Andhra Pradesh,ST,0
+47,Female,Urban,Uttarakhand,General,0
+67,Female,Urban,Bihar,OBC,1
+66,Male,Urban,Himachal Pradesh,OBC,1
+49,Male,Rural,Goa,General,1
+19,Female,Urban,Karnataka,OBC,1
+31,Female,Rural,Tripura,SC,0
+75,Female,Urban,Punjab,General,1
+41,Male,Rural,Karnataka,SC,0
+62,Male,Urban,Sikkim,ST,1
+52,Female,Rural,Mizoram,OBC,0
+29,Male,Rural,Odisha,SC,0
+76,Female,Urban,Assam,OBC,0
+52,Female,Urban,Goa,General,0
+40,Female,Rural,Sikkim,SC,0
+80,Female,Urban,Tamil Nadu,General,1
+53,Female,Rural,Tripura,OBC,0
+24,Male,Urban,Mizoram,OBC,1
+51,Female,Urban,Haryana,SC,0
+67,Male,Rural,Jharkhand,ST,1
+29,Male,Rural,Rajasthan,ST,0
+61,Female,Urban,Nagaland,General,0
+19,Female,Rural,Kerala,SC,0
+67,Male,Urban,Tripura,OBC,1
+44,Male,Urban,Assam,SC,0
+31,Male,Urban,Uttarakhand,General,1
+28,Female,Urban,Uttar Pradesh,ST,1
+71,Female,Urban,Andhra Pradesh,OBC,1
+58,Female,Rural,Andhra Pradesh,OBC,0
+47,Male,Urban,Telangana,General,0
+55,Female,Rural,Rajasthan,SC,0
+21,Male,Rural,Uttarakhand,General,1
+59,Male,Urban,Chhattisgarh,ST,1
+25,Female,Rural,Nagaland,SC,0
+19,Female,Rural,Maharashtra,General,0
+59,Male,Urban,Karnataka,General,1
+20,Male,Urban,West Bengal,OBC,1
+48,Male,Urban,Sikkim,OBC,0
+57,Male,Urban,Odisha,General,1
+29,Female,Urban,Gujarat,SC,1
+34,Male,Rural,Arunachal Pradesh,ST,0
+59,Female,Urban,Arunachal Pradesh,OBC,1
+43,Female,Urban,Jharkhand,General,0
+79,Female,Urban,Nagaland,General,1
+33,Male,Urban,Maharashtra,OBC,1
+49,Female,Urban,Uttar Pradesh,SC,0
+69,Female,Urban,Tamil Nadu,SC,1
+62,Female,Rural,West Bengal,General,0
+73,Male,Urban,Himachal Pradesh,General,1
+70,Male,Rural,Karnataka,ST,1
+41,Male,Urban,Mizoram,OBC,1
+72,Male,Urban,Himachal Pradesh,SC,0
+58,Female,Urban,Tamil Nadu,SC,1
+44,Male,Rural,Mizoram,OBC,0
+39,Female,Rural,Karnataka,ST,0
+18,Male,Urban,Kerala,SC,1
+76,Female,Urban,Arunachal Pradesh,General,1
+43,Male,Urban,Nagaland,OBC,1
+72,Male,Urban,Tamil Nadu,General,1
+36,Male,Rural,Karnataka,ST,0
+75,Male,Rural,Tripura,OBC,0
+27,Male,Urban,Telangana,OBC,1
+30,Male,Rural,Nagaland,SC,0
+59,Male,Urban,Haryana,General,1
+50,Female,Urban,Rajasthan,OBC,1
+43,Male,Rural,Manipur,OBC,0
+52,Female,Urban,Goa,ST,0
+84,Female,Urban,Chhattisgarh,General,1
+73,Male,Urban,Tamil Nadu,ST,1
+53,Female,Rural,Gujarat,OBC,0
+21,Female,Urban,Sikkim,OBC,1
+41,Female,Urban,Assam,General,0
+69,Male,Rural,Punjab,General,1
+34,Female,Urban,Madhya Pradesh,General,0
+26,Female,Rural,Manipur,General,0
+65,Female,Rural,Sikkim,ST,0
+49,Male,Urban,Goa,General,0
+81,Female,Rural,Rajasthan,OBC,0
+23,Male,Rural,Madhya Pradesh,OBC,1
+77,Female,Rural,Tripura,ST,0
+64,Female,Urban,Gujarat,General,1
+51,Female,Urban,Arunachal Pradesh,General,1
+26,Male,Rural,Meghalaya,ST,0
+73,Female,Urban,Tamil Nadu,SC,1
+32,Female,Urban,Goa,General,1
+28,Male,Urban,Bihar,OBC,1
+80,Male,Urban,Rajasthan,General,1
+21,Female,Urban,Himachal Pradesh,OBC,1
+57,Female,Urban,Karnataka,OBC,1
+74,Female,Urban,Arunachal Pradesh,OBC,1
+76,Male,Rural,Tamil Nadu,ST,1
+53,Female,Rural,Punjab,ST,0
+61,Female,Rural,Odisha,ST,0
+69,Female,Urban,Jharkhand,General,1
+51,Male,Rural,Kerala,SC,0
+66,Male,Urban,Kerala,OBC,1
+76,Female,Urban,Goa,SC,1
+69,Male,Urban,Bihar,OBC,1
+80,Female,Urban,Uttar Pradesh,ST,1
+76,Male,Urban,Haryana,ST,1
+27,Female,Rural,Odisha,SC,0
+58,Male,Urban,Arunachal Pradesh,General,0
+41,Female,Rural,Tamil Nadu,SC,0
+74,Female,Rural,Maharashtra,OBC,1
+45,Female,Rural,Kerala,ST,0
+30,Female,Rural,Andhra Pradesh,OBC,0
+33,Male,Urban,Uttarakhand,ST,1
+61,Male,Urban,Nagaland,ST,1
+74,Male,Rural,Telangana,SC,0
+73,Male,Rural,Maharashtra,General,0
+81,Male,Rural,Punjab,SC,0
+57,Male,Urban,Odisha,General,1
+79,Female,Urban,Assam,SC,1
+20,Female,Urban,Punjab,General,1
+40,Female,Rural,Kerala,ST,0
+72,Male,Rural,Arunachal Pradesh,ST,0
+81,Female,Urban,Tripura,ST,1
+84,Male,Rural,Gujarat,OBC,1
+80,Male,Urban,Tamil Nadu,ST,1
+25,Female,Rural,Rajasthan,SC,0
+54,Female,Urban,Rajasthan,SC,0
+38,Male,Urban,Karnataka,OBC,1
+81,Female,Urban,Madhya Pradesh,General,1
+48,Female,Urban,West Bengal,OBC,0
+57,Female,Rural,Maharashtra,General,0
+34,Male,Urban,Kerala,SC,1
+69,Female,Urban,Tamil Nadu,General,1
+74,Female,Rural,Madhya Pradesh,ST,0
+38,Male,Urban,West Bengal,General,1
+63,Male,Rural,Manipur,OBC,1
+33,Male,Urban,Uttar Pradesh,OBC,0
+40,Male,Urban,Assam,SC,0
+28,Male,Rural,Himachal Pradesh,ST,0
+82,Female,Urban,Bihar,General,1
+35,Female,Rural,Kerala,General,0
+32,Male,Urban,Himachal Pradesh,General,1
+67,Male,Urban,Nagaland,General,1
+74,Female,Rural,Chhattisgarh,OBC,0
+79,Male,Urban,Himachal Pradesh,OBC,1
+47,Female,Rural,West Bengal,ST,0
+69,Male,Rural,Karnataka,ST,0
+40,Female,Urban,Chhattisgarh,General,0
+46,Female,Rural,Bihar,OBC,0
+45,Male,Urban,Karnataka,ST,1
+67,Female,Rural,Meghalaya,OBC,0
+25,Female,Urban,Odisha,OBC,1
+58,Male,Urban,Manipur,ST,1
+40,Female,Rural,Goa,General,0
+72,Male,Rural,Nagaland,SC,0
+40,Female,Rural,Maharashtra,SC,0
+34,Male,Rural,Karnataka,OBC,0
+38,Male,Rural,Haryana,ST,0
+29,Female,Rural,Karnataka,SC,0
+43,Male,Rural,Jharkhand,General,0
+61,Female,Urban,Goa,ST,1
+68,Female,Rural,Tamil Nadu,SC,0
+48,Female,Rural,Sikkim,General,0
+40,Female,Rural,Tripura,SC,0
+52,Female,Rural,Bihar,OBC,0
+78,Female,Urban,Madhya Pradesh,General,1
+62,Male,Rural,Maharashtra,OBC,1
+24,Female,Urban,Manipur,OBC,1
+34,Female,Urban,Meghalaya,ST,1
+66,Male,Urban,Nagaland,ST,1
+50,Female,Rural,Gujarat,ST,0
+59,Female,Rural,Sikkim,SC,0
+71,Female,Rural,Himachal Pradesh,OBC,0
+31,Male,Rural,Punjab,General,1
+77,Male,Rural,Arunachal Pradesh,SC,0
+57,Female,Rural,Himachal Pradesh,SC,0
+85,Male,Rural,Kerala,ST,0
+74,Female,Rural,Mizoram,General,0
+35,Male,Rural,Uttarakhand,General,0
+76,Male,Rural,Sikkim,OBC,0
+48,Male,Urban,Meghalaya,SC,1
+41,Female,Urban,Tamil Nadu,SC,1
+43,Female,Urban,Madhya Pradesh,General,1
+62,Female,Urban,Andhra Pradesh,SC,0
+54,Female,Rural,Maharashtra,General,0
+66,Female,Rural,Tamil Nadu,SC,0
+84,Female,Rural,Himachal Pradesh,General,0
+79,Male,Urban,Meghalaya,ST,1
+78,Female,Urban,Telangana,General,1
+53,Male,Urban,Chhattisgarh,SC,0
+31,Male,Rural,Uttar Pradesh,OBC,0
+64,Male,Rural,Uttarakhand,OBC,1
+74,Female,Rural,Uttar Pradesh,ST,0
+53,Male,Rural,Haryana,OBC,0
+74,Female,Rural,Madhya Pradesh,SC,0
+38,Male,Rural,Arunachal Pradesh,SC,0
+63,Female,Rural,Uttar Pradesh,SC,0
+62,Female,Urban,Chhattisgarh,ST,1
+63,Female,Urban,Tripura,ST,0
+38,Male,Urban,Nagaland,General,1
+49,Female,Rural,Goa,General,0
+29,Female,Urban,Tripura,General,0
+37,Female,Rural,Himachal Pradesh,ST,0
+66,Male,Urban,Haryana,General,1
+79,Female,Urban,Jharkhand,OBC,1
+47,Female,Rural,Assam,General,0
+80,Male,Rural,Rajasthan,ST,1
+52,Female,Rural,Madhya Pradesh,ST,0
+20,Female,Rural,Karnataka,General,0
+50,Male,Urban,Meghalaya,ST,1
+53,Female,Rural,Uttar Pradesh,General,0
+35,Female,Urban,Jharkhand,ST,0
+46,Female,Rural,Uttar Pradesh,General,0
+68,Female,Urban,Madhya Pradesh,ST,1
+66,Female,Rural,Rajasthan,ST,0
+77,Female,Urban,Assam,SC,0
+74,Female,Rural,Uttarakhand,SC,0
+66,Female,Urban,Meghalaya,ST,1
+54,Female,Rural,Odisha,ST,0
+65,Female,Urban,Madhya Pradesh,OBC,1
+47,Female,Urban,Himachal Pradesh,OBC,1
+69,Female,Rural,Haryana,General,0
+54,Male,Urban,Chhattisgarh,ST,1
+53,Male,Rural,Jharkhand,General,0
+36,Female,Rural,Telangana,OBC,0
+44,Male,Urban,Mizoram,General,1
+33,Male,Rural,Arunachal Pradesh,General,0
+66,Female,Rural,Karnataka,ST,1
+54,Male,Urban,Mizoram,OBC,1
+71,Female,Rural,Bihar,OBC,0
+52,Female,Urban,Bihar,OBC,1
+53,Female,Rural,Tripura,SC,0
+24,Female,Rural,Jharkhand,ST,0
+69,Female,Rural,Odisha,General,0
+35,Female,Rural,Karnataka,SC,0
+47,Female,Rural,Maharashtra,SC,0
+71,Male,Urban,Chhattisgarh,General,1
+49,Female,Rural,Bihar,SC,0
+30,Female,Rural,Andhra Pradesh,ST,0
+31,Male,Rural,Mizoram,SC,0
+54,Male,Rural,Uttar Pradesh,General,0
+31,Female,Urban,Mizoram,SC,0
+18,Female,Rural,Telangana,ST,0
+23,Male,Urban,Nagaland,ST,1
+31,Female,Urban,Sikkim,General,0
+30,Male,Urban,Rajasthan,OBC,1
+24,Female,Rural,Tamil Nadu,SC,0
+23,Male,Rural,Tripura,ST,0
+45,Female,Rural,Andhra Pradesh,SC,0
+37,Male,Rural,Madhya Pradesh,OBC,0
+68,Female,Urban,Maharashtra,SC,1
+30,Female,Rural,Telangana,SC,0
+59,Male,Rural,West Bengal,OBC,0
+78,Male,Urban,Himachal Pradesh,General,1
+36,Male,Urban,Sikkim,SC,1
+52,Male,Urban,Maharashtra,General,1
+68,Male,Urban,Uttar Pradesh,OBC,1
+64,Male,Rural,Telangana,General,1
+36,Male,Rural,Punjab,ST,0
+49,Male,Urban,Mizoram,General,1
+38,Female,Urban,Goa,OBC,1
+52,Female,Urban,Gujarat,SC,1
+85,Male,Urban,Telangana,General,1
+61,Female,Urban,Tamil Nadu,ST,1
+38,Male,Rural,Gujarat,SC,0
+54,Female,Rural,Nagaland,OBC,0
+72,Male,Urban,Telangana,SC,0
+69,Male,Rural,Sikkim,ST,0
+78,Female,Urban,Madhya Pradesh,SC,0
+56,Female,Rural,Sikkim,SC,0
+69,Female,Rural,Gujarat,ST,1
+72,Male,Urban,Meghalaya,ST,1
+39,Male,Rural,Kerala,General,0
+27,Male,Urban,Kerala,SC,1
+70,Male,Urban,Uttarakhand,General,1
+59,Male,Urban,West Bengal,General,1
+59,Male,Urban,Karnataka,ST,1
+73,Female,Urban,Assam,SC,0
+69,Male,Rural,Chhattisgarh,General,1
+69,Female,Urban,Nagaland,OBC,1
+72,Female,Rural,Odisha,General,0
+62,Female,Urban,Karnataka,OBC,1
+81,Male,Rural,Tamil Nadu,SC,1
+38,Male,Rural,Chhattisgarh,OBC,0
+54,Male,Rural,Punjab,OBC,0
+31,Female,Rural,Punjab,ST,0
+38,Female,Rural,Bihar,OBC,0
+82,Female,Rural,Bihar,General,0
+22,Male,Urban,Uttar Pradesh,OBC,1
+71,Female,Rural,Nagaland,OBC,1
+48,Male,Urban,Odisha,General,0
+85,Male,Urban,Meghalaya,ST,1
+32,Female,Rural,Andhra Pradesh,SC,0
+48,Female,Rural,Tripura,General,0
+18,Female,Urban,Meghalaya,SC,1
+27,Male,Urban,Manipur,OBC,1
+55,Male,Rural,Assam,ST,0
+28,Female,Urban,Arunachal Pradesh,ST,0
+59,Female,Urban,Punjab,OBC,0
+35,Male,Urban,Arunachal Pradesh,OBC,1
+55,Female,Rural,Odisha,ST,0
+52,Female,Rural,Karnataka,General,0
+80,Male,Rural,Nagaland,OBC,0
+33,Male,Rural,Bihar,SC,0
+82,Male,Urban,Madhya Pradesh,OBC,1
+84,Female,Urban,Himachal Pradesh,General,1
+81,Male,Rural,Mizoram,ST,1
+55,Female,Rural,Himachal Pradesh,OBC,0
+42,Female,Urban,Uttar Pradesh,ST,1
+82,Female,Urban,Nagaland,OBC,0
+29,Male,Urban,Meghalaya,OBC,1
+66,Female,Urban,Bihar,ST,1
+76,Male,Rural,Tamil Nadu,OBC,1
+26,Female,Urban,Mizoram,OBC,0
+53,Female,Urban,Telangana,ST,1
+43,Female,Rural,Sikkim,General,0
+46,Female,Rural,Sikkim,General,0
+34,Female,Urban,Kerala,ST,1
+74,Male,Urban,Sikkim,General,1
+58,Male,Rural,Bihar,General,0
+24,Female,Urban,Goa,General,1
+83,Male,Urban,Kerala,OBC,1
+73,Male,Urban,Assam,OBC,1
+63,Male,Rural,Manipur,General,0
+46,Female,Rural,Gujarat,SC,0
+50,Male,Urban,Nagaland,SC,1
+74,Male,Urban,Jharkhand,OBC,1
+19,Male,Urban,Uttarakhand,ST,1
+64,Male,Urban,Punjab,ST,1
+67,Female,Rural,Haryana,OBC,0
+73,Male,Urban,Kerala,ST,1
+74,Male,Urban,Tripura,General,1
+45,Female,Rural,Goa,SC,0
+34,Female,Rural,Telangana,SC,0
+81,Female,Urban,Chhattisgarh,SC,1
+56,Female,Rural,Chhattisgarh,ST,0
+79,Female,Urban,Nagaland,General,1
+23,Female,Rural,Rajasthan,ST,0
+24,Male,Urban,Assam,ST,1
+41,Male,Rural,Andhra Pradesh,SC,0
+53,Female,Urban,Gujarat,SC,0
+61,Male,Urban,Karnataka,ST,1
+27,Male,Urban,Maharashtra,General,1
+84,Male,Urban,Himachal Pradesh,ST,1
+29,Male,Urban,Nagaland,OBC,1
+19,Male,Urban,Nagaland,General,1
+82,Female,Rural,Uttar Pradesh,SC,0
+38,Male,Urban,Uttar Pradesh,General,1
+21,Female,Urban,Arunachal Pradesh,OBC,0
+34,Male,Urban,Sikkim,General,1
+78,Female,Rural,Madhya Pradesh,SC,0
+43,Female,Rural,Madhya Pradesh,OBC,0
+36,Male,Rural,Haryana,SC,0
+20,Male,Rural,Himachal Pradesh,General,0
+75,Male,Urban,Karnataka,General,1
+60,Female,Urban,Goa,SC,0
+77,Female,Rural,Uttar Pradesh,OBC,0
+70,Female,Rural,Madhya Pradesh,OBC,0
+79,Female,Urban,Chhattisgarh,ST,1
+81,Male,Rural,Uttar Pradesh,SC,0
+70,Male,Urban,Kerala,OBC,1
+83,Female,Urban,Meghalaya,General,1
+58,Male,Urban,Meghalaya,OBC,1
+76,Male,Urban,Haryana,SC,0
+77,Male,Rural,Maharashtra,General,1
+37,Female,Urban,Sikkim,General,0
+42,Male,Urban,Odisha,OBC,1
+43,Male,Rural,Rajasthan,OBC,0
+44,Male,Urban,Punjab,OBC,1
+27,Female,Urban,Assam,OBC,0
+62,Female,Rural,Uttarakhand,ST,0
+52,Male,Rural,Punjab,General,0
+30,Male,Rural,Rajasthan,SC,0
+32,Male,Urban,Arunachal Pradesh,General,0
+83,Male,Urban,Punjab,OBC,1
+33,Male,Rural,Punjab,SC,0
+67,Female,Urban,Uttarakhand,SC,0
+47,Female,Rural,Jharkhand,General,0
+52,Male,Urban,Nagaland,SC,0
+21,Female,Rural,Arunachal Pradesh,OBC,0
+76,Male,Urban,Arunachal Pradesh,SC,0
+21,Female,Urban,Telangana,SC,0
+58,Female,Urban,Telangana,ST,0
+39,Female,Urban,Bihar,ST,0
+70,Female,Urban,West Bengal,OBC,0
+45,Male,Urban,West Bengal,General,1
+27,Male,Urban,Rajasthan,ST,1
+27,Male,Urban,Rajasthan,SC,1
+77,Male,Rural,Jharkhand,ST,1
+72,Male,Urban,Chhattisgarh,General,1
+55,Female,Urban,Bihar,General,0
+82,Male,Rural,Odisha,SC,0
+32,Female,Rural,Assam,ST,0
+74,Male,Urban,Bihar,OBC,1
+52,Female,Urban,Chhattisgarh,OBC,1
+21,Male,Rural,Madhya Pradesh,ST,0
+29,Male,Rural,Punjab,ST,0
+75,Male,Urban,Manipur,OBC,1
+29,Male,Urban,Sikkim,SC,1
+35,Female,Urban,Manipur,ST,1
+48,Male,Urban,Punjab,OBC,1
+37,Female,Rural,Tamil Nadu,OBC,0
+54,Male,Rural,Punjab,OBC,0
+38,Female,Urban,West Bengal,General,0
+34,Female,Urban,Rajasthan,OBC,0
+21,Female,Rural,Manipur,General,0
+81,Male,Rural,Kerala,General,1
+53,Female,Urban,Nagaland,General,1
+73,Male,Urban,West Bengal,General,1
+18,Male,Urban,Madhya Pradesh,ST,1
+74,Female,Rural,Goa,General,0
+71,Female,Rural,Gujarat,ST,0
+53,Female,Urban,Chhattisgarh,ST,1
+67,Female,Rural,Mizoram,SC,0
+21,Female,Urban,Arunachal Pradesh,ST,1
+58,Female,Rural,Andhra Pradesh,ST,0
+78,Male,Urban,Rajasthan,OBC,1
+30,Male,Rural,Odisha,OBC,0
+18,Male,Rural,Andhra Pradesh,SC,0
+37,Male,Urban,Andhra Pradesh,OBC,0
+37,Male,Rural,Gujarat,SC,0
+55,Male,Rural,Tamil Nadu,SC,0
+45,Female,Rural,Mizoram,SC,0
+29,Female,Rural,Tripura,ST,0
+48,Male,Urban,Nagaland,OBC,1
+69,Female,Rural,Kerala,General,0
+77,Female,Rural,Andhra Pradesh,ST,0
+43,Female,Urban,Meghalaya,SC,0
+54,Male,Urban,Nagaland,ST,1
+40,Male,Urban,Uttarakhand,ST,1
+25,Male,Urban,Karnataka,OBC,1
+44,Female,Urban,Odisha,OBC,0
+23,Female,Rural,Tripura,ST,0
+81,Male,Urban,Uttarakhand,SC,1
+65,Female,Urban,Mizoram,OBC,0
+22,Male,Rural,Madhya Pradesh,SC,0
+58,Male,Urban,Chhattisgarh,SC,0
+70,Female,Urban,Haryana,ST,1
+45,Male,Urban,Assam,General,0
+57,Female,Rural,Himachal Pradesh,General,0
+48,Male,Rural,Tripura,SC,0
+40,Male,Urban,Maharashtra,General,1
+30,Male,Urban,Gujarat,SC,1
+41,Male,Rural,Haryana,ST,0
+51,Male,Rural,Punjab,General,1
+63,Male,Urban,West Bengal,General,1
+57,Female,Urban,Odisha,SC,0
+31,Female,Rural,Karnataka,OBC,0
+54,Female,Rural,Nagaland,SC,0
+49,Female,Rural,Assam,SC,0
+75,Female,Urban,Bihar,ST,1
+64,Male,Urban,Gujarat,ST,1
+27,Male,Urban,Tripura,General,1
+23,Male,Urban,Arunachal Pradesh,OBC,1
+30,Male,Rural,Karnataka,General,1
+76,Female,Rural,Odisha,SC,0
+83,Male,Rural,West Bengal,OBC,0
+48,Male,Urban,Uttar Pradesh,SC,0
+81,Male,Urban,Goa,ST,1
+60,Male,Rural,Chhattisgarh,OBC,0
+53,Female,Urban,Odisha,OBC,1
+40,Female,Urban,Telangana,ST,0
+37,Female,Urban,Karnataka,SC,0
+39,Male,Urban,Uttar Pradesh,OBC,1
+55,Female,Urban,Himachal Pradesh,ST,0
+65,Male,Urban,Maharashtra,OBC,1
+45,Male,Urban,Himachal Pradesh,General,1
+19,Male,Urban,Uttar Pradesh,OBC,1
+84,Male,Urban,Nagaland,ST,1
+40,Male,Rural,Karnataka,OBC,1
+76,Male,Rural,Goa,OBC,0
+28,Female,Urban,Tripura,General,1
+38,Male,Rural,Uttarakhand,ST,0
+31,Male,Rural,Karnataka,General,0
+84,Female,Rural,Uttar Pradesh,OBC,0
+43,Female,Urban,Mizoram,General,1
+35,Male,Rural,Kerala,SC,0
+78,Male,Urban,Goa,OBC,1
+53,Male,Urban,Andhra Pradesh,ST,1
+78,Female,Urban,Himachal Pradesh,OBC,0
+33,Female,Urban,Mizoram,ST,1
+80,Female,Urban,Uttar Pradesh,General,0
+39,Female,Urban,Haryana,OBC,0
+61,Female,Urban,Punjab,ST,1
+84,Female,Rural,Kerala,OBC,0
+48,Female,Rural,Assam,SC,0
+55,Female,Urban,Rajasthan,SC,0
+68,Male,Rural,Chhattisgarh,ST,0
+66,Male,Rural,Chhattisgarh,ST,1
+69,Female,Urban,Bihar,OBC,1
+75,Female,Urban,Tripura,SC,0
+77,Male,Rural,Bihar,ST,0
+48,Male,Rural,Meghalaya,OBC,0
+55,Male,Rural,Kerala,OBC,0
+28,Male,Rural,Odisha,SC,0
+78,Female,Urban,Madhya Pradesh,SC,0
+34,Male,Rural,Arunachal Pradesh,General,0
+39,Male,Rural,Goa,General,0
+79,Male,Urban,Himachal Pradesh,ST,1
+38,Female,Urban,Goa,ST,0
+38,Male,Rural,Manipur,ST,0
+22,Female,Urban,Himachal Pradesh,ST,1
+53,Male,Urban,Mizoram,General,1
+59,Female,Rural,Manipur,SC,0
+45,Female,Urban,Nagaland,OBC,1
+82,Male,Urban,Madhya Pradesh,ST,1
+59,Male,Urban,Sikkim,SC,0
+75,Female,Rural,Mizoram,General,0
+70,Male,Urban,Odisha,General,1
+39,Female,Rural,Himachal Pradesh,OBC,0
+83,Female,Rural,Arunachal Pradesh,General,0
+70,Female,Rural,Arunachal Pradesh,General,0
+57,Female,Rural,Tripura,General,0
+75,Female,Rural,Karnataka,SC,0
+50,Male,Urban,Arunachal Pradesh,OBC,1
+43,Male,Urban,Bihar,ST,1
+52,Female,Rural,Mizoram,OBC,0
+48,Male,Rural,Himachal Pradesh,SC,0
+80,Female,Rural,West Bengal,ST,1
+25,Female,Rural,Gujarat,ST,0
+56,Female,Rural,Uttar Pradesh,SC,0
+27,Female,Rural,Haryana,ST,0
+46,Female,Urban,Andhra Pradesh,OBC,0
+78,Male,Rural,Bihar,General,0
+18,Female,Rural,Jharkhand,ST,0
+36,Female,Rural,Rajasthan,OBC,0
+70,Female,Rural,Gujarat,General,0
+40,Male,Rural,Uttar Pradesh,SC,0
+42,Male,Rural,Himachal Pradesh,OBC,0
+34,Male,Urban,Andhra Pradesh,OBC,1
+23,Female,Urban,Haryana,SC,1
+35,Female,Rural,Assam,SC,0
+51,Male,Rural,Punjab,General,1
+78,Male,Rural,West Bengal,General,0
+24,Female,Rural,Kerala,SC,0
+29,Female,Rural,Punjab,OBC,0
+38,Female,Urban,Mizoram,SC,0
+77,Male,Urban,Maharashtra,General,1
+63,Female,Rural,Tamil Nadu,ST,0
+40,Male,Rural,Madhya Pradesh,OBC,0
+53,Female,Rural,Karnataka,OBC,0
+51,Male,Rural,Uttar Pradesh,OBC,0
+19,Male,Urban,Meghalaya,OBC,1
+71,Male,Rural,Goa,OBC,0
+77,Male,Rural,Tripura,General,0
+25,Female,Urban,Karnataka,ST,1
+31,Male,Rural,Tripura,General,0
+36,Female,Urban,Kerala,ST,0
+68,Female,Rural,Kerala,ST,0
+74,Female,Urban,Uttar Pradesh,General,0
+39,Female,Urban,Nagaland,General,0
+38,Male,Urban,Gujarat,SC,1
+57,Male,Urban,Uttar Pradesh,OBC,1
+81,Male,Urban,Karnataka,SC,1
+39,Male,Urban,Madhya Pradesh,ST,1
+58,Male,Urban,Jharkhand,SC,0
+24,Male,Urban,Meghalaya,ST,1
+67,Male,Rural,Manipur,SC,0
+70,Female,Urban,Telangana,OBC,1
+47,Male,Urban,Assam,ST,1
+38,Male,Rural,Gujarat,General,0
+21,Female,Urban,Telangana,SC,0
+71,Male,Urban,Haryana,SC,1
+70,Male,Rural,Gujarat,General,1
+49,Female,Urban,Goa,General,0
+35,Female,Rural,Goa,ST,0
+75,Female,Urban,Chhattisgarh,ST,1
+83,Female,Rural,Sikkim,SC,0
+58,Male,Rural,Assam,OBC,1
+84,Male,Rural,Telangana,OBC,0
+65,Male,Urban,Gujarat,SC,1
+49,Male,Urban,Odisha,General,1
+36,Female,Rural,Arunachal Pradesh,General,0
+41,Male,Rural,Madhya Pradesh,SC,0
+55,Female,Urban,Karnataka,OBC,1
+52,Female,Urban,Maharashtra,General,0
+56,Male,Rural,Telangana,SC,0
+71,Female,Urban,Jharkhand,OBC,1
+20,Female,Rural,Kerala,SC,0
+77,Female,Urban,Chhattisgarh,SC,1
+35,Male,Urban,Goa,SC,0
+66,Male,Urban,Himachal Pradesh,OBC,1
+28,Female,Urban,Bihar,OBC,1
+47,Male,Rural,Uttar Pradesh,OBC,0
+80,Female,Rural,Manipur,OBC,0
+67,Female,Urban,Tamil Nadu,OBC,1
+81,Male,Rural,Maharashtra,OBC,1
+25,Male,Rural,Sikkim,OBC,1
+30,Female,Rural,Bihar,ST,0
+52,Female,Rural,Haryana,OBC,0
+82,Male,Rural,Maharashtra,OBC,1
+63,Male,Urban,Karnataka,OBC,1
+23,Male,Rural,Bihar,SC,0
+64,Female,Rural,Tripura,General,0
+28,Male,Rural,Tamil Nadu,ST,1
+84,Female,Urban,Uttarakhand,General,1
+47,Male,Urban,Sikkim,SC,1
+61,Male,Urban,Manipur,OBC,1
+27,Male,Rural,Rajasthan,SC,0
+35,Female,Urban,Gujarat,General,1
+49,Male,Rural,Kerala,General,0
+58,Male,Urban,Tamil Nadu,SC,1
+50,Male,Rural,Tripura,ST,0
+29,Female,Urban,Tamil Nadu,General,1
+60,Female,Urban,Goa,OBC,1
+41,Male,Urban,Assam,OBC,1
+47,Female,Rural,Sikkim,SC,0
+31,Male,Urban,Andhra Pradesh,OBC,1
+75,Male,Urban,Haryana,General,1
+85,Female,Rural,Bihar,ST,0
+28,Male,Urban,Karnataka,SC,1
+39,Male,Urban,Arunachal Pradesh,OBC,1
+35,Female,Urban,Nagaland,General,0
+22,Male,Urban,Rajasthan,SC,1
+45,Female,Rural,Himachal Pradesh,General,0
+57,Female,Urban,Goa,ST,1
+79,Male,Rural,Rajasthan,General,1
+30,Male,Rural,Meghalaya,OBC,0
+85,Female,Rural,Sikkim,SC,0
+75,Female,Rural,Uttar Pradesh,OBC,0
+33,Female,Urban,Sikkim,ST,0
+78,Female,Rural,Kerala,SC,0
+52,Male,Rural,West Bengal,General,0
+25,Male,Urban,Telangana,ST,1
+40,Male,Rural,Chhattisgarh,General,0
+52,Male,Urban,Tamil Nadu,General,1
+83,Male,Rural,Karnataka,General,1
+26,Male,Rural,Manipur,SC,0
+18,Female,Rural,Tripura,General,0
+33,Male,Rural,Uttar Pradesh,OBC,0
+82,Male,Rural,Mizoram,SC,0
+19,Male,Urban,West Bengal,ST,1
+37,Male,Urban,Uttar Pradesh,ST,0
+75,Female,Rural,Haryana,ST,0
+85,Female,Urban,Goa,General,1
+75,Female,Urban,Odisha,General,1
+63,Female,Urban,Rajasthan,General,1
+33,Male,Rural,Uttarakhand,OBC,0
+80,Male,Rural,Goa,OBC,0
+25,Female,Rural,Manipur,OBC,0
+64,Male,Urban,Tamil Nadu,General,1
+49,Female,Urban,Tamil Nadu,ST,1
+62,Female,Rural,Andhra Pradesh,OBC,0
+50,Male,Urban,Madhya Pradesh,ST,1
+73,Female,Urban,Chhattisgarh,General,0
+23,Male,Rural,Sikkim,SC,0
+18,Male,Rural,Madhya Pradesh,General,0
+25,Female,Urban,Andhra Pradesh,OBC,1
+32,Female,Urban,Chhattisgarh,General,1
+28,Male,Rural,Odisha,ST,1
+67,Female,Urban,Uttarakhand,ST,1
+74,Female,Rural,Uttarakhand,General,0
+38,Male,Urban,Tamil Nadu,General,1
+78,Female,Rural,Madhya Pradesh,OBC,0
+25,Female,Urban,Jharkhand,ST,0
+41,Female,Urban,Karnataka,OBC,1
+45,Male,Rural,Goa,ST,0
+60,Female,Rural,Jharkhand,General,0
+59,Female,Urban,Assam,ST,1
+37,Male,Rural,Karnataka,OBC,0
+83,Male,Rural,Nagaland,ST,1
+38,Male,Urban,Rajasthan,SC,0
+36,Female,Rural,Karnataka,SC,0
+78,Female,Urban,Jharkhand,ST,1
+81,Female,Urban,Kerala,SC,0
+69,Female,Rural,Manipur,ST,0
+19,Male,Rural,Meghalaya,OBC,1
+51,Male,Urban,Andhra Pradesh,ST,1
+45,Female,Rural,Nagaland,OBC,0
+77,Female,Rural,Tripura,SC,0
+55,Male,Urban,Andhra Pradesh,SC,0
+49,Female,Urban,Tripura,ST,0
+56,Male,Rural,Odisha,OBC,1
+81,Male,Urban,Arunachal Pradesh,SC,1
+67,Female,Urban,Tripura,ST,1
+51,Male,Rural,Manipur,OBC,0
+34,Female,Rural,Uttarakhand,OBC,0
+84,Female,Urban,Himachal Pradesh,ST,1
+59,Female,Rural,Uttar Pradesh,OBC,0
+60,Female,Urban,Goa,OBC,1
+56,Female,Urban,Uttarakhand,OBC,1
+35,Male,Urban,Telangana,General,1
+60,Male,Urban,Sikkim,General,1
+64,Female,Urban,Himachal Pradesh,ST,1
+82,Male,Urban,Tamil Nadu,OBC,1
+77,Female,Rural,West Bengal,ST,0
+47,Female,Urban,Haryana,OBC,1
+37,Male,Urban,Jharkhand,SC,0
+53,Male,Urban,Himachal Pradesh,SC,0
+58,Female,Rural,Tripura,ST,0
+48,Male,Urban,Kerala,OBC,0
+34,Female,Urban,Himachal Pradesh,OBC,1
+45,Female,Rural,Goa,SC,0
+40,Female,Urban,Bihar,ST,0
+25,Female,Rural,Haryana,SC,0
+82,Female,Urban,Tamil Nadu,SC,1
+64,Male,Rural,Sikkim,General,1
+55,Male,Rural,Gujarat,General,1
+61,Female,Urban,Sikkim,General,1
+81,Female,Urban,West Bengal,ST,1
+32,Male,Urban,Madhya Pradesh,ST,0
+20,Male,Urban,Madhya Pradesh,SC,1
+36,Female,Rural,Madhya Pradesh,SC,0
+59,Female,Urban,Arunachal Pradesh,OBC,0
+73,Male,Urban,Andhra Pradesh,OBC,1
+47,Male,Rural,Himachal Pradesh,SC,0
+20,Female,Rural,Tamil Nadu,General,0
+50,Female,Urban,Bihar,ST,0
+55,Male,Urban,Odisha,SC,1
+79,Female,Urban,Kerala,SC,0
+81,Male,Urban,Tamil Nadu,ST,1
+83,Female,Urban,Chhattisgarh,ST,0
+52,Female,Rural,Arunachal Pradesh,ST,0
+26,Female,Urban,Kerala,SC,1
+21,Male,Urban,Andhra Pradesh,ST,1
+70,Female,Urban,Madhya Pradesh,SC,0
+74,Female,Urban,Kerala,OBC,0
+52,Male,Rural,Kerala,SC,0
+49,Male,Rural,Uttar Pradesh,ST,0
+40,Female,Urban,Maharashtra,ST,1
+70,Female,Urban,Uttarakhand,SC,1
+38,Female,Rural,Nagaland,SC,0
+38,Female,Rural,Rajasthan,General,0
+48,Male,Urban,West Bengal,General,1
+55,Male,Rural,Tripura,General,0
+26,Male,Rural,Meghalaya,ST,1
+51,Male,Urban,Uttar Pradesh,OBC,1
+22,Male,Rural,Goa,SC,0
+56,Female,Rural,Jharkhand,OBC,0
+53,Male,Rural,Madhya Pradesh,SC,0
+78,Male,Urban,Gujarat,OBC,1
+80,Female,Urban,Meghalaya,OBC,0
+61,Male,Rural,Maharashtra,General,1
+60,Male,Rural,Tripura,General,1
+71,Male,Rural,Jharkhand,SC,0
+83,Female,Urban,Bihar,General,1
+70,Female,Urban,Assam,OBC,1
+55,Male,Rural,Arunachal Pradesh,SC,0
+83,Female,Rural,Gujarat,OBC,0
+18,Male,Rural,Sikkim,OBC,0
+76,Female,Rural,Andhra Pradesh,OBC,0
+26,Male,Rural,Andhra Pradesh,General,1
+20,Female,Rural,Madhya Pradesh,ST,0
+57,Female,Rural,Himachal Pradesh,ST,0
+45,Female,Rural,Rajasthan,SC,0
+25,Female,Rural,Goa,OBC,0
+48,Female,Rural,Odisha,General,0
+48,Female,Urban,Chhattisgarh,General,1
+45,Female,Rural,Goa,ST,0
+46,Male,Rural,Arunachal Pradesh,ST,0
+18,Male,Urban,Gujarat,SC,1
+34,Female,Urban,Punjab,ST,1
+22,Female,Urban,Nagaland,SC,0
+57,Male,Urban,Bihar,ST,0
+40,Male,Rural,Arunachal Pradesh,General,0
+55,Male,Rural,Himachal Pradesh,OBC,0
+56,Female,Rural,Meghalaya,SC,0
+50,Female,Urban,Telangana,ST,0
+47,Female,Urban,Tamil Nadu,SC,1
+26,Male,Urban,Maharashtra,OBC,1
+32,Female,Urban,Nagaland,OBC,0
+84,Male,Rural,Chhattisgarh,OBC,1
+60,Male,Urban,Haryana,SC,0
+37,Female,Urban,Arunachal Pradesh,General,0
+67,Female,Urban,Assam,General,1
+38,Male,Rural,Himachal Pradesh,OBC,0
+55,Female,Urban,Tripura,General,0
+60,Male,Rural,Odisha,OBC,0
+23,Female,Urban,Uttar Pradesh,SC,1
+35,Male,Rural,Assam,General,0
+45,Male,Urban,Manipur,SC,0
+69,Male,Rural,Bihar,OBC,1
+53,Female,Urban,Arunachal Pradesh,General,0
+49,Male,Urban,Rajasthan,General,1
+48,Male,Rural,Sikkim,General,0
+64,Male,Urban,Goa,ST,1
+67,Male,Rural,Tripura,General,1
+18,Male,Urban,Haryana,ST,1
+42,Female,Rural,Andhra Pradesh,General,0
+61,Male,Rural,Himachal Pradesh,OBC,1
+53,Female,Urban,Meghalaya,General,0
+28,Female,Urban,Rajasthan,SC,0
+85,Male,Rural,Kerala,SC,0
+20,Male,Rural,Tripura,SC,0
+74,Female,Rural,Chhattisgarh,General,0
+43,Male,Urban,Sikkim,OBC,1
+23,Female,Urban,Maharashtra,SC,0
+53,Female,Rural,Tamil Nadu,General,0
+35,Male,Rural,Goa,SC,0
+71,Female,Urban,West Bengal,SC,0
+65,Female,Urban,Tripura,OBC,1
+84,Female,Urban,West Bengal,SC,0
+30,Female,Urban,Telangana,SC,0
+39,Female,Urban,Assam,General,1
+65,Male,Rural,Arunachal Pradesh,General,1
+39,Female,Urban,Karnataka,General,1
+38,Female,Urban,Chhattisgarh,SC,0
+56,Female,Urban,Andhra Pradesh,OBC,1
+26,Female,Urban,Karnataka,OBC,1
+61,Male,Urban,Meghalaya,ST,1
+43,Male,Urban,Andhra Pradesh,ST,1
+54,Female,Rural,Goa,ST,0
+32,Female,Urban,Assam,SC,0
+28,Male,Rural,Himachal Pradesh,General,1
+50,Female,Urban,Karnataka,ST,1
+21,Female,Rural,Himachal Pradesh,OBC,0
+33,Female,Rural,Meghalaya,ST,0
+71,Female,Urban,Bihar,General,1
+64,Female,Rural,West Bengal,OBC,0
+72,Female,Rural,Chhattisgarh,SC,0
+30,Female,Rural,Maharashtra,ST,0
+64,Male,Rural,Bihar,ST,0
+75,Male,Urban,Gujarat,General,1
+31,Male,Urban,Kerala,SC,0
+70,Male,Rural,Mizoram,SC,0
+73,Female,Rural,Andhra Pradesh,SC,0
+32,Male,Rural,Jharkhand,General,0
+32,Female,Rural,Telangana,ST,0
+82,Female,Urban,Rajasthan,OBC,1
+25,Male,Urban,Chhattisgarh,SC,1
+33,Male,Urban,Karnataka,General,1
+52,Male,Rural,Rajasthan,OBC,0
+68,Female,Urban,Gujarat,SC,1
+54,Female,Urban,Karnataka,SC,0
+59,Male,Rural,Andhra Pradesh,SC,0
+30,Female,Urban,Telangana,General,1
+47,Male,Urban,Chhattisgarh,ST,1
+30,Male,Urban,Arunachal Pradesh,General,1
+74,Female,Rural,Arunachal Pradesh,General,0
+65,Male,Urban,Assam,General,1
+71,Female,Rural,Sikkim,ST,0
+65,Male,Rural,Rajasthan,ST,0
+65,Male,Rural,Meghalaya,OBC,1
+58,Female,Rural,Odisha,SC,0
+53,Female,Urban,Rajasthan,SC,0
+40,Female,Urban,Tripura,SC,0
+27,Male,Rural,Chhattisgarh,SC,0
+72,Male,Urban,Uttarakhand,OBC,1
+47,Female,Urban,Tripura,General,1
+76,Female,Rural,Chhattisgarh,OBC,0
+58,Female,Rural,Sikkim,OBC,0
+50,Female,Urban,Mizoram,SC,0
+66,Male,Rural,Manipur,General,1
+36,Female,Rural,Karnataka,ST,0
+33,Female,Rural,Kerala,General,0
+42,Male,Urban,Kerala,SC,1
+64,Male,Rural,Rajasthan,General,1
+84,Female,Urban,Punjab,General,0
+57,Male,Urban,Sikkim,SC,0
+38,Female,Urban,Karnataka,OBC,1
+70,Female,Rural,Meghalaya,OBC,0
+24,Female,Rural,Karnataka,SC,0
+24,Male,Urban,Nagaland,OBC,1
+25,Female,Urban,Himachal Pradesh,ST,1
+65,Male,Urban,Assam,SC,1
+53,Male,Rural,Arunachal Pradesh,OBC,0
+70,Male,Rural,Mizoram,ST,0
+40,Female,Rural,Sikkim,ST,0
+75,Male,Urban,Mizoram,OBC,1
+46,Female,Rural,Tripura,ST,0
+70,Female,Rural,Telangana,OBC,0
+40,Male,Rural,Tripura,SC,0
+38,Male,Rural,Punjab,General,1
+85,Female,Urban,Karnataka,General,1
+39,Female,Urban,Maharashtra,ST,1
+84,Male,Rural,Odisha,General,0
+49,Female,Rural,Himachal Pradesh,General,0
+19,Male,Rural,Jharkhand,OBC,0
+55,Male,Urban,Arunachal Pradesh,General,1
+64,Female,Rural,Madhya Pradesh,SC,0
+67,Male,Rural,Maharashtra,ST,1
+70,Female,Urban,Chhattisgarh,SC,0
+69,Male,Urban,Jharkhand,General,1
+61,Male,Rural,Arunachal Pradesh,ST,0
+36,Female,Urban,Uttar Pradesh,OBC,0
+35,Male,Urban,Sikkim,SC,1
+69,Female,Rural,Meghalaya,General,0
+37,Male,Urban,Kerala,SC,0
+60,Male,Rural,Haryana,ST,1
+35,Male,Rural,Goa,ST,0
+42,Male,Rural,Punjab,General,0
+55,Female,Rural,Odisha,OBC,0
+51,Female,Urban,Rajasthan,ST,0
+42,Male,Rural,Jharkhand,ST,0
+29,Male,Urban,Uttarakhand,SC,1
+71,Female,Rural,Haryana,ST,0
+43,Male,Urban,Tamil Nadu,ST,1
+54,Male,Rural,Karnataka,OBC,0
+67,Female,Urban,Gujarat,SC,0
+44,Male,Urban,Himachal Pradesh,ST,1
+57,Female,Rural,Uttar Pradesh,ST,0
+26,Male,Rural,Bihar,General,0
+36,Male,Urban,Punjab,SC,1
+51,Male,Urban,Sikkim,OBC,1
+42,Male,Rural,Chhattisgarh,ST,0
+48,Female,Urban,Chhattisgarh,ST,0
+75,Male,Urban,Tamil Nadu,OBC,1
+20,Male,Rural,Tripura,SC,0
+60,Female,Urban,Goa,ST,1
+67,Female,Rural,Chhattisgarh,ST,0
+63,Male,Rural,Nagaland,General,0
+22,Male,Urban,Nagaland,ST,1
+81,Male,Urban,Arunachal Pradesh,ST,1
+54,Female,Rural,Maharashtra,SC,0
+78,Male,Urban,Mizoram,OBC,1
+76,Male,Rural,Mizoram,OBC,0
+39,Male,Rural,Chhattisgarh,OBC,0
+63,Female,Rural,Gujarat,OBC,0
+83,Male,Urban,West Bengal,SC,0
+73,Female,Urban,Rajasthan,OBC,0
+23,Female,Rural,Andhra Pradesh,ST,0
+45,Female,Rural,Jharkhand,OBC,0
+79,Male,Urban,Meghalaya,OBC,1
+56,Female,Rural,Sikkim,OBC,0
+23,Male,Urban,Tamil Nadu,General,1
+59,Female,Rural,Assam,SC,0
+35,Female,Urban,Tripura,ST,1
+21,Female,Urban,Uttarakhand,General,0
+72,Female,Rural,Meghalaya,OBC,0
+34,Female,Rural,Bihar,OBC,0
+23,Male,Rural,Kerala,ST,1
+29,Male,Rural,Arunachal Pradesh,SC,0
+59,Female,Urban,Haryana,ST,0
+65,Male,Urban,Rajasthan,OBC,1
+74,Female,Rural,Meghalaya,ST,0
+30,Male,Urban,Maharashtra,OBC,1
+77,Male,Urban,Kerala,General,1
+65,Female,Urban,Assam,ST,1
+76,Female,Rural,Odisha,ST,0
+54,Male,Urban,Punjab,SC,0
+54,Male,Rural,Madhya Pradesh,ST,1
+19,Female,Rural,West Bengal,SC,0
+39,Male,Rural,Nagaland,SC,0
+77,Female,Urban,Bihar,OBC,1
+33,Male,Rural,Madhya Pradesh,General,0
+49,Female,Urban,Madhya Pradesh,General,0
+83,Male,Rural,Rajasthan,General,1
+52,Male,Urban,Tripura,SC,0
+80,Female,Rural,Gujarat,SC,0
+54,Male,Rural,Goa,SC,0
+25,Female,Urban,Haryana,SC,0
+36,Male,Rural,Maharashtra,SC,0
+40,Female,Rural,Karnataka,SC,0
+39,Male,Urban,Mizoram,SC,0
+18,Female,Urban,Maharashtra,General,1
+63,Male,Urban,Punjab,ST,1
+23,Male,Rural,Madhya Pradesh,ST,1
+34,Female,Rural,Odisha,ST,0
+23,Male,Rural,Rajasthan,SC,0
+18,Male,Urban,Goa,ST,1
+61,Male,Rural,Mizoram,SC,0
+67,Female,Rural,Andhra Pradesh,OBC,0
+69,Male,Urban,Odisha,OBC,1
+34,Female,Urban,West Bengal,ST,1
+37,Male,Urban,West Bengal,OBC,1
+59,Male,Rural,Karnataka,ST,0
+67,Female,Urban,Chhattisgarh,SC,1
+55,Male,Urban,Manipur,ST,1
+68,Male,Rural,Nagaland,OBC,0
+46,Female,Rural,Telangana,OBC,0
+82,Male,Rural,Kerala,OBC,0
+48,Female,Rural,Jharkhand,ST,0
+39,Female,Rural,Jharkhand,OBC,0
+72,Female,Urban,Tripura,SC,0
+30,Male,Rural,Goa,General,0
+72,Male,Urban,Goa,SC,1
+28,Male,Rural,Karnataka,SC,0
+56,Male,Urban,Sikkim,OBC,0
+32,Female,Rural,Jharkhand,ST,0
+45,Male,Urban,Goa,SC,1
+42,Female,Urban,Mizoram,ST,0
+51,Female,Rural,Manipur,SC,0
+20,Female,Rural,Maharashtra,General,0
+59,Male,Rural,Karnataka,SC,0
+75,Male,Urban,Rajasthan,ST,1
+34,Male,Rural,Maharashtra,ST,1
+24,Male,Urban,Odisha,ST,1
+67,Male,Rural,Tripura,OBC,1
+22,Male,Rural,Bihar,SC,0
+71,Male,Rural,Nagaland,OBC,1
+83,Male,Rural,Himachal Pradesh,OBC,0
+82,Female,Urban,Goa,SC,0
+66,Male,Urban,Maharashtra,ST,1
+84,Male,Rural,West Bengal,SC,1
+18,Male,Rural,Karnataka,SC,0
+33,Female,Urban,Tripura,OBC,1
+42,Female,Rural,Chhattisgarh,General,0
+31,Female,Urban,Karnataka,ST,0
+31,Female,Rural,Madhya Pradesh,ST,0
+70,Male,Rural,Telangana,General,0
+51,Male,Rural,Tripura,General,0
+79,Male,Rural,Karnataka,ST,0
+22,Male,Rural,Odisha,General,0
+83,Female,Rural,Himachal Pradesh,SC,0
+29,Female,Rural,Arunachal Pradesh,OBC,0
+28,Female,Rural,Manipur,OBC,0
+69,Male,Urban,Chhattisgarh,ST,1
+45,Male,Rural,Rajasthan,ST,1
+54,Male,Rural,Bihar,ST,0
+71,Female,Urban,Bihar,SC,0
+19,Female,Urban,Jharkhand,SC,0
+73,Male,Urban,Mizoram,ST,1
+56,Female,Rural,Uttarakhand,ST,0
+54,Female,Rural,Tripura,General,0
+59,Female,Urban,Mizoram,General,1
+73,Male,Urban,Mizoram,SC,0
+61,Female,Rural,Manipur,ST,0
+75,Male,Urban,West Bengal,ST,1
+26,Female,Urban,Tripura,General,1
+81,Female,Rural,Punjab,General,0
+55,Male,Rural,Assam,SC,0
+50,Male,Urban,Telangana,OBC,1
+63,Male,Rural,Sikkim,ST,1
+58,Female,Urban,Arunachal Pradesh,SC,0
+41,Female,Rural,Haryana,SC,0
+49,Female,Rural,Madhya Pradesh,General,0
+54,Male,Rural,Maharashtra,General,1
+82,Female,Urban,Punjab,General,1
+68,Female,Urban,Jharkhand,SC,0
+43,Female,Urban,Mizoram,General,0
+25,Female,Rural,Maharashtra,General,0
+70,Female,Rural,Sikkim,OBC,0
+18,Male,Urban,Meghalaya,General,1
+34,Male,Rural,Andhra Pradesh,SC,0
+75,Male,Urban,Sikkim,OBC,1
+36,Male,Urban,Odisha,ST,0
+71,Male,Rural,Manipur,ST,0
+82,Female,Rural,Bihar,ST,0
+63,Male,Urban,Mizoram,SC,1
+64,Female,Rural,Uttar Pradesh,General,0
+63,Female,Rural,Tamil Nadu,ST,0
+69,Female,Urban,Tamil Nadu,General,1
+55,Female,Urban,Sikkim,OBC,1
+66,Female,Urban,Assam,OBC,1
+62,Male,Urban,Karnataka,ST,1
+66,Male,Rural,Gujarat,General,1
+37,Female,Rural,Tamil Nadu,General,0
+22,Female,Rural,Telangana,ST,0
+20,Female,Rural,West Bengal,General,0
+41,Male,Urban,Manipur,ST,1
+38,Male,Rural,Sikkim,ST,0
+51,Male,Rural,Madhya Pradesh,SC,0
+62,Male,Rural,Kerala,OBC,0
+28,Female,Rural,Goa,OBC,0
+68,Female,Rural,Tamil Nadu,OBC,1
+20,Male,Urban,Jharkhand,SC,0
+67,Male,Rural,Nagaland,General,1
+77,Female,Urban,Bihar,SC,0
+74,Male,Rural,Uttar Pradesh,ST,0
+79,Female,Rural,Nagaland,OBC,0
+71,Male,Rural,Tripura,ST,1
+55,Female,Urban,Goa,General,0
+47,Male,Rural,Tamil Nadu,ST,0
+63,Male,Rural,Himachal Pradesh,ST,0
+36,Male,Urban,Himachal Pradesh,SC,1
+26,Male,Urban,Punjab,SC,1
+48,Male,Urban,Uttar Pradesh,SC,0
+71,Male,Rural,Rajasthan,OBC,0
+80,Female,Urban,Madhya Pradesh,OBC,1
+54,Male,Rural,Sikkim,SC,0
+74,Male,Rural,Jharkhand,ST,0
+62,Male,Urban,Chhattisgarh,OBC,1
+30,Male,Urban,Telangana,General,1
+49,Male,Urban,Sikkim,General,0
+44,Male,Urban,Meghalaya,ST,0
+27,Male,Urban,Rajasthan,OBC,1
+64,Female,Urban,Rajasthan,General,1
+20,Male,Rural,Goa,OBC,1
+29,Female,Urban,Bihar,SC,1
+42,Male,Urban,Himachal Pradesh,ST,1
+34,Female,Rural,Rajasthan,General,0
+64,Male,Rural,Tripura,OBC,1
+56,Male,Rural,Tripura,OBC,0
+46,Male,Rural,Haryana,SC,0
+38,Female,Rural,Manipur,SC,0
+64,Female,Rural,Assam,General,0
+47,Male,Urban,Arunachal Pradesh,SC,0
+20,Female,Rural,Sikkim,SC,0
+31,Male,Rural,Bihar,ST,0
+61,Male,Urban,Maharashtra,ST,1
+19,Male,Urban,Odisha,ST,1
+59,Female,Urban,Jharkhand,General,1
+70,Female,Urban,Gujarat,General,1
+81,Female,Urban,Punjab,ST,1
+77,Male,Urban,Gujarat,General,1
+43,Male,Urban,Karnataka,General,1
+84,Male,Rural,Arunachal Pradesh,General,0
+26,Male,Urban,Mizoram,OBC,1
+57,Male,Rural,Odisha,General,0
+42,Female,Urban,Telangana,ST,0
+76,Male,Rural,Nagaland,OBC,1
+48,Female,Rural,Maharashtra,OBC,0
+36,Female,Rural,Arunachal Pradesh,ST,0
+27,Female,Rural,Rajasthan,ST,0
+63,Female,Urban,Chhattisgarh,General,1
+74,Male,Urban,Uttar Pradesh,SC,1
+19,Female,Urban,Uttar Pradesh,SC,0
+21,Female,Rural,Sikkim,General,0
+34,Male,Rural,West Bengal,ST,0
+82,Male,Urban,Kerala,General,1
+75,Female,Urban,Gujarat,ST,1
+80,Female,Urban,Goa,General,0
+56,Male,Urban,Goa,SC,0
+66,Male,Rural,Mizoram,General,0
+29,Female,Rural,Uttarakhand,ST,0
+29,Male,Urban,Haryana,ST,1
+78,Female,Urban,Gujarat,SC,0
+77,Female,Rural,Nagaland,General,0
+34,Male,Urban,Jharkhand,ST,0
+73,Male,Urban,Odisha,General,1
+75,Female,Urban,Maharashtra,OBC,1
+65,Male,Urban,Manipur,ST,1
+67,Female,Rural,Arunachal Pradesh,SC,0
+22,Female,Urban,Gujarat,SC,1
+67,Male,Rural,Kerala,OBC,1
+22,Male,Rural,Punjab,General,0
+58,Female,Urban,Arunachal Pradesh,OBC,1
+71,Male,Rural,Karnataka,SC,0
+18,Female,Rural,Mizoram,OBC,0
+22,Female,Rural,Manipur,OBC,0
+38,Female,Urban,Nagaland,OBC,1
+32,Female,Rural,Karnataka,General,0
+29,Male,Rural,Assam,ST,1
+73,Male,Rural,Tamil Nadu,SC,0
+42,Female,Rural,Madhya Pradesh,OBC,0
+55,Male,Rural,Bihar,OBC,1
+61,Male,Urban,Gujarat,OBC,1
+71,Female,Rural,Uttarakhand,ST,0
+18,Male,Urban,Jharkhand,SC,0
+59,Male,Rural,Tamil Nadu,General,0
+25,Male,Urban,Tripura,General,1
+52,Female,Urban,Nagaland,OBC,0
+58,Female,Rural,Arunachal Pradesh,OBC,0
+79,Male,Rural,Nagaland,OBC,1
+25,Female,Rural,Mizoram,General,0
+23,Female,Urban,Jharkhand,ST,1
+22,Female,Rural,Telangana,ST,0
+18,Male,Rural,Andhra Pradesh,General,1
+21,Female,Urban,Chhattisgarh,OBC,1
+35,Male,Urban,Tamil Nadu,OBC,1
+22,Female,Urban,Mizoram,General,0
+20,Male,Urban,Arunachal Pradesh,General,1
+45,Female,Rural,Himachal Pradesh,OBC,0
+39,Male,Rural,Uttarakhand,OBC,0
+84,Male,Rural,Bihar,SC,0
+70,Female,Urban,Jharkhand,General,1
+68,Male,Urban,Maharashtra,ST,1
+48,Male,Rural,Tamil Nadu,SC,0
+76,Female,Urban,Madhya Pradesh,OBC,1
+68,Male,Urban,Arunachal Pradesh,ST,1
+37,Female,Urban,Uttarakhand,SC,0
+78,Male,Urban,Himachal Pradesh,ST,1
+30,Male,Rural,Tripura,OBC,0
+68,Male,Urban,Uttar Pradesh,General,1
+66,Female,Urban,Rajasthan,OBC,0
+79,Female,Rural,Assam,General,0
+50,Female,Rural,Arunachal Pradesh,OBC,0
+36,Female,Urban,Jharkhand,OBC,1
+39,Male,Rural,Goa,General,0
+21,Male,Urban,Arunachal Pradesh,SC,1
+76,Male,Urban,Kerala,OBC,1
+85,Male,Rural,Assam,SC,0
+33,Female,Rural,Goa,ST,0
+41,Female,Rural,Meghalaya,General,0
+40,Female,Urban,Himachal Pradesh,OBC,0
+41,Male,Urban,Madhya Pradesh,OBC,1
+41,Male,Urban,Maharashtra,General,1
+64,Male,Urban,Maharashtra,ST,1
+51,Male,Urban,Uttarakhand,ST,1
+26,Female,Urban,Tripura,ST,0
+25,Female,Urban,Madhya Pradesh,ST,0
+27,Female,Urban,Jharkhand,OBC,0
+25,Male,Rural,Mizoram,ST,0
+22,Female,Rural,Kerala,OBC,0
+49,Female,Urban,Arunachal Pradesh,SC,0
+70,Male,Rural,Maharashtra,General,1
+34,Female,Rural,Assam,General,0
+56,Female,Urban,Bihar,ST,0
+55,Female,Urban,Assam,ST,1
+65,Male,Urban,Tamil Nadu,ST,1
+26,Male,Rural,Telangana,ST,1
+50,Male,Rural,Sikkim,ST,0
+67,Male,Urban,Goa,SC,1
+70,Female,Urban,Haryana,SC,0
+54,Female,Rural,Uttarakhand,ST,0
+39,Female,Rural,Bihar,OBC,0
+19,Female,Rural,Uttar Pradesh,ST,0
+67,Female,Urban,West Bengal,OBC,1
+38,Male,Urban,Nagaland,OBC,0
+54,Male,Urban,Karnataka,ST,1
+53,Female,Urban,Manipur,General,1
+20,Male,Urban,Chhattisgarh,OBC,1
+18,Female,Rural,Uttarakhand,SC,0
+72,Female,Rural,West Bengal,SC,0
+80,Male,Urban,Andhra Pradesh,ST,1
+40,Male,Urban,Madhya Pradesh,General,1
+65,Male,Rural,Tripura,General,0
+77,Male,Urban,Uttarakhand,General,1
+50,Female,Rural,Assam,General,0
+32,Male,Rural,Karnataka,ST,0
+70,Male,Urban,Haryana,ST,1
+24,Male,Rural,Tamil Nadu,General,0
+81,Female,Rural,Maharashtra,ST,0
+47,Female,Rural,Chhattisgarh,General,0
+41,Female,Urban,Sikkim,ST,0
+31,Male,Urban,Nagaland,General,1
+18,Female,Urban,Goa,SC,1
+54,Male,Urban,Uttar Pradesh,General,0
+80,Male,Rural,Chhattisgarh,ST,1
+19,Male,Urban,Mizoram,OBC,1
+75,Female,Rural,Punjab,SC,0
+50,Male,Urban,Telangana,ST,0
+32,Male,Urban,Andhra Pradesh,OBC,1
+29,Female,Rural,West Bengal,ST,0
+39,Female,Urban,West Bengal,General,1
+83,Male,Urban,Nagaland,SC,0
+67,Male,Urban,Punjab,ST,1
+79,Female,Urban,Karnataka,OBC,1
+24,Male,Urban,Uttarakhand,General,1
+48,Female,Rural,Telangana,SC,0
+38,Female,Rural,Rajasthan,General,0
+71,Male,Rural,Madhya Pradesh,ST,1
+37,Female,Urban,Uttar Pradesh,OBC,1
+23,Female,Rural,Meghalaya,OBC,0
+73,Male,Rural,Sikkim,ST,0
+53,Male,Urban,Rajasthan,ST,1
+65,Male,Urban,Madhya Pradesh,OBC,1
+85,Female,Rural,Tripura,General,0
+79,Female,Rural,Uttarakhand,SC,0
+25,Female,Urban,Andhra Pradesh,ST,1
+81,Male,Urban,Rajasthan,SC,1
+20,Female,Rural,Kerala,ST,0
+30,Male,Rural,Goa,ST,0
+46,Female,Rural,Gujarat,ST,0
+78,Male,Rural,Kerala,SC,0
+60,Female,Rural,Jharkhand,General,0
+55,Male,Urban,Rajasthan,General,0
+70,Female,Rural,Chhattisgarh,SC,0
+75,Female,Urban,Maharashtra,OBC,1
+67,Male,Rural,Himachal Pradesh,OBC,0
+18,Female,Urban,Assam,General,0
+24,Male,Urban,Tripura,General,1
+84,Female,Urban,Madhya Pradesh,General,1
+33,Male,Rural,Kerala,SC,0
+68,Male,Urban,Kerala,SC,1
+55,Female,Urban,Assam,General,0
+40,Male,Urban,West Bengal,General,1
+19,Male,Urban,Arunachal Pradesh,SC,0
+56,Male,Rural,Tamil Nadu,ST,0
+50,Female,Urban,Telangana,SC,0
+56,Female,Urban,Chhattisgarh,OBC,0
+65,Female,Rural,Andhra Pradesh,General,0
+24,Male,Rural,Gujarat,ST,0
+67,Female,Urban,Himachal Pradesh,ST,1
+21,Male,Urban,Maharashtra,SC,1
+76,Male,Urban,Punjab,ST,1
+55,Female,Rural,Uttarakhand,SC,0
+33,Female,Rural,Kerala,General,0
+39,Female,Urban,Himachal Pradesh,SC,0
+28,Female,Rural,Karnataka,ST,0
+30,Female,Rural,Tamil Nadu,ST,0
+73,Male,Rural,Tamil Nadu,ST,0
+28,Male,Urban,Nagaland,SC,0
+73,Male,Rural,Madhya Pradesh,SC,0
+72,Female,Urban,Goa,OBC,1
+28,Female,Rural,Haryana,SC,0
+67,Female,Urban,Andhra Pradesh,General,1
+47,Male,Urban,Punjab,General,1
+30,Male,Rural,Nagaland,ST,0
+30,Female,Rural,Maharashtra,SC,0
+59,Male,Urban,Tamil Nadu,OBC,1
+49,Female,Rural,Uttar Pradesh,SC,0
+63,Female,Rural,Punjab,OBC,0
+40,Male,Urban,Haryana,General,1
+18,Male,Rural,Uttarakhand,SC,0
+57,Female,Rural,Andhra Pradesh,SC,0
+64,Male,Rural,Maharashtra,General,1
+72,Male,Rural,Andhra Pradesh,OBC,1
+24,Female,Urban,Meghalaya,SC,1
+45,Female,Rural,Chhattisgarh,SC,0
+81,Female,Urban,West Bengal,General,1
+70,Male,Urban,Uttarakhand,OBC,1
+81,Male,Urban,Himachal Pradesh,General,1
+36,Female,Urban,Gujarat,OBC,1
+48,Female,Rural,Maharashtra,ST,0
+69,Male,Urban,Uttar Pradesh,OBC,1
+82,Female,Urban,Maharashtra,OBC,1
+46,Female,Urban,Assam,General,0
+54,Male,Urban,Madhya Pradesh,ST,0
+28,Female,Urban,Chhattisgarh,ST,0
+22,Male,Urban,Rajasthan,OBC,1
+55,Male,Rural,Telangana,General,0
+62,Female,Rural,Sikkim,OBC,1
+76,Female,Urban,Arunachal Pradesh,SC,0
+19,Male,Urban,Madhya Pradesh,ST,1
+63,Female,Urban,Mizoram,General,1
+24,Male,Urban,Maharashtra,SC,1
+34,Female,Urban,Himachal Pradesh,General,0
+32,Male,Rural,Maharashtra,ST,0
+79,Male,Rural,Punjab,ST,0
+41,Male,Rural,Haryana,ST,0
+35,Female,Rural,Punjab,OBC,0
+70,Male,Rural,Assam,ST,0
+65,Male,Rural,Chhattisgarh,General,1
+53,Female,Rural,Maharashtra,SC,0
+75,Male,Rural,Jharkhand,OBC,0
+27,Male,Urban,Telangana,General,1
+78,Male,Rural,Gujarat,OBC,0
+24,Female,Rural,Himachal Pradesh,SC,0
+57,Female,Urban,Uttar Pradesh,ST,0
+57,Female,Urban,Goa,SC,0
+32,Female,Urban,Sikkim,General,0
+30,Male,Rural,Uttarakhand,OBC,1
+33,Female,Urban,Madhya Pradesh,SC,0
+69,Male,Urban,Nagaland,OBC,1
+47,Female,Rural,Maharashtra,OBC,0
+30,Female,Urban,Nagaland,SC,1
+34,Male,Urban,Meghalaya,ST,1
+41,Female,Rural,Haryana,ST,0
+23,Male,Rural,Kerala,SC,0
+64,Female,Rural,Haryana,OBC,0
+29,Male,Urban,Tripura,ST,1
+45,Male,Urban,Assam,ST,1
+74,Male,Rural,Uttar Pradesh,SC,0
+31,Female,Rural,Gujarat,General,0
+83,Female,Rural,Rajasthan,General,0
+59,Male,Urban,Arunachal Pradesh,SC,0
+57,Male,Rural,Goa,SC,0
+80,Female,Urban,Mizoram,OBC,1
+39,Female,Urban,Rajasthan,General,0
+76,Male,Rural,Telangana,ST,0
+33,Male,Urban,Punjab,ST,0
+47,Female,Urban,Manipur,OBC,0
+81,Female,Rural,Himachal Pradesh,OBC,0
+23,Male,Rural,Madhya Pradesh,ST,1
+35,Male,Urban,Meghalaya,ST,1
+64,Female,Urban,Chhattisgarh,OBC,1
+20,Female,Urban,Karnataka,SC,1
+69,Female,Rural,Goa,OBC,0
+43,Male,Urban,Maharashtra,ST,1
+75,Male,Urban,Manipur,SC,1
+68,Male,Rural,Nagaland,SC,0
+71,Male,Urban,Mizoram,General,1
+60,Female,Urban,Haryana,ST,1
+44,Male,Rural,Bihar,General,0
+63,Male,Rural,Karnataka,ST,1
+28,Male,Urban,Maharashtra,ST,1
+67,Female,Urban,Meghalaya,ST,1
+54,Male,Rural,Himachal Pradesh,SC,0
+18,Male,Rural,Assam,ST,0
+37,Male,Rural,Arunachal Pradesh,General,0
+48,Male,Urban,Andhra Pradesh,General,1
+57,Female,Rural,West Bengal,ST,0
+49,Male,Urban,Maharashtra,ST,1
+42,Female,Urban,Chhattisgarh,General,1
+61,Female,Rural,West Bengal,General,1
+80,Female,Rural,Jharkhand,OBC,0
+42,Female,Rural,Assam,General,0
+23,Male,Urban,Telangana,General,1
+53,Male,Urban,Karnataka,General,1
+83,Female,Rural,Goa,SC,0
+23,Female,Urban,Arunachal Pradesh,ST,1
+76,Female,Rural,Sikkim,SC,0
+60,Female,Rural,Andhra Pradesh,ST,0
+55,Female,Rural,Rajasthan,ST,0
+67,Male,Rural,Odisha,General,1
+62,Female,Urban,Maharashtra,OBC,1
+41,Male,Rural,Andhra Pradesh,SC,0
+42,Male,Rural,Uttar Pradesh,SC,0
+56,Male,Urban,Madhya Pradesh,SC,1
+61,Female,Rural,West Bengal,SC,0
+21,Female,Urban,Arunachal Pradesh,General,1
+20,Female,Urban,Haryana,SC,1
+54,Female,Urban,Manipur,OBC,1
+75,Female,Rural,Maharashtra,ST,1
+79,Male,Rural,Haryana,General,0
+62,Female,Urban,Karnataka,OBC,1
+82,Male,Rural,West Bengal,OBC,0
+75,Female,Urban,Telangana,ST,0
+50,Female,Urban,Rajasthan,ST,0
+36,Female,Urban,Punjab,ST,0
+69,Male,Rural,Uttar Pradesh,General,1
+26,Female,Rural,West Bengal,OBC,0
+84,Female,Rural,Uttar Pradesh,General,0
+46,Female,Urban,Gujarat,OBC,0
+46,Male,Rural,Meghalaya,OBC,0
+35,Female,Rural,Haryana,SC,0
+49,Female,Rural,Mizoram,SC,0
+18,Male,Urban,Haryana,General,1
+40,Female,Rural,Gujarat,General,0
+19,Female,Urban,Madhya Pradesh,ST,0
+36,Female,Urban,Chhattisgarh,General,1
+37,Male,Rural,Assam,General,0
+22,Female,Rural,Bihar,OBC,0
+38,Female,Rural,West Bengal,SC,0
+84,Female,Urban,Bihar,OBC,1
+83,Female,Urban,Tamil Nadu,OBC,1
+77,Female,Urban,Punjab,ST,1
+29,Male,Rural,Uttar Pradesh,SC,0
+36,Male,Urban,Andhra Pradesh,General,1
+35,Male,Rural,Uttar Pradesh,ST,0
+38,Female,Urban,Rajasthan,General,0
+47,Female,Urban,Madhya Pradesh,General,0
+78,Male,Urban,Goa,General,1
+51,Female,Urban,Manipur,OBC,0
+61,Male,Urban,Himachal Pradesh,General,1
+71,Male,Urban,Maharashtra,General,1
+85,Female,Rural,Jharkhand,General,1
+59,Female,Rural,Bihar,OBC,0
+28,Female,Rural,Maharashtra,ST,0
+67,Female,Rural,Uttar Pradesh,OBC,1
+81,Male,Urban,Uttarakhand,SC,1
+64,Female,Urban,Bihar,ST,1
+34,Female,Urban,Manipur,General,0
+53,Female,Rural,Sikkim,SC,0
+74,Female,Rural,Jharkhand,OBC,1
+51,Female,Urban,Uttarakhand,OBC,0
+42,Male,Urban,Manipur,SC,0
+31,Female,Urban,Sikkim,ST,1
+26,Male,Urban,Sikkim,OBC,1
+48,Female,Urban,Nagaland,General,0
+65,Male,Urban,Rajasthan,OBC,1
+46,Female,Urban,Meghalaya,SC,0
+50,Male,Urban,Punjab,OBC,1
+78,Male,Urban,Mizoram,General,1
+22,Female,Urban,Bihar,SC,0
+46,Male,Urban,Tamil Nadu,ST,1
+58,Female,Urban,West Bengal,ST,1
+57,Female,Rural,Odisha,General,0
+83,Male,Rural,Sikkim,General,0
+21,Male,Rural,Uttar Pradesh,ST,0
+21,Female,Urban,Haryana,SC,1
+44,Male,Rural,West Bengal,ST,0
+43,Female,Rural,Bihar,ST,0
+64,Male,Rural,Mizoram,SC,0
+69,Male,Urban,Madhya Pradesh,General,1
+31,Female,Rural,Nagaland,General,0
+69,Female,Rural,Andhra Pradesh,OBC,0
+44,Female,Urban,Andhra Pradesh,SC,0
+45,Male,Urban,Manipur,General,1
+23,Female,Rural,Sikkim,ST,0
+73,Male,Urban,Arunachal Pradesh,General,1
+55,Female,Urban,Sikkim,OBC,1
+42,Male,Rural,Punjab,General,0
+39,Male,Rural,Mizoram,SC,0
+40,Male,Urban,West Bengal,SC,0
+48,Female,Urban,Nagaland,General,0
+26,Male,Rural,Bihar,General,0
+79,Male,Urban,Tamil Nadu,SC,1
+64,Male,Urban,Haryana,ST,1
+48,Male,Rural,Tripura,ST,0
+61,Male,Urban,Haryana,General,1
+62,Male,Urban,Andhra Pradesh,SC,1
+19,Female,Urban,Kerala,General,1
+21,Male,Urban,Kerala,OBC,1
+57,Male,Rural,Bihar,OBC,0
+25,Female,Rural,Assam,General,0
+27,Male,Rural,Rajasthan,OBC,0
+22,Male,Rural,Arunachal Pradesh,SC,0
+81,Female,Rural,Madhya Pradesh,SC,0
+40,Female,Urban,Chhattisgarh,OBC,0
+47,Male,Rural,Madhya Pradesh,SC,0
+49,Male,Urban,Assam,ST,1
+19,Female,Rural,Chhattisgarh,General,0
+45,Female,Rural,Karnataka,ST,0
+62,Female,Urban,Goa,ST,0
+36,Female,Rural,Gujarat,SC,0
+49,Female,Rural,Manipur,ST,0
+45,Male,Urban,Karnataka,General,1
+22,Female,Rural,Goa,OBC,0
+24,Female,Rural,West Bengal,General,0
+64,Male,Urban,Karnataka,General,1
+65,Female,Urban,Himachal Pradesh,SC,0
+24,Male,Rural,Odisha,SC,0
+70,Female,Rural,Assam,OBC,0
+53,Female,Rural,Maharashtra,ST,0
+29,Male,Urban,Chhattisgarh,OBC,1
+82,Male,Rural,Maharashtra,SC,0
+81,Female,Rural,Jharkhand,General,0
+21,Female,Urban,Karnataka,ST,1
+73,Female,Urban,Assam,ST,1
+46,Female,Urban,Arunachal Pradesh,OBC,1
+60,Female,Urban,Kerala,OBC,0
+68,Male,Rural,Mizoram,OBC,0
+65,Female,Rural,Tripura,OBC,1
+66,Female,Rural,Chhattisgarh,SC,0
+66,Male,Urban,Arunachal Pradesh,ST,1
+54,Female,Urban,Andhra Pradesh,ST,1
+20,Male,Rural,Tamil Nadu,OBC,1
+37,Female,Rural,Himachal Pradesh,SC,0
+50,Male,Rural,West Bengal,OBC,0
+46,Male,Rural,Nagaland,ST,0
+73,Male,Urban,Manipur,ST,1
+68,Male,Urban,Jharkhand,ST,1
+34,Female,Urban,Assam,SC,0
+25,Male,Rural,Mizoram,SC,0
+41,Male,Urban,Himachal Pradesh,OBC,1
+68,Male,Rural,Uttar Pradesh,SC,0
+75,Female,Rural,Nagaland,SC,0
+58,Female,Urban,Goa,General,0
+61,Male,Rural,Uttar Pradesh,General,1
+33,Female,Rural,Mizoram,SC,0
+31,Male,Urban,Nagaland,SC,0
+79,Female,Rural,Meghalaya,General,0
+70,Female,Rural,Uttarakhand,ST,0
+61,Male,Rural,Karnataka,ST,1
+57,Male,Urban,Tamil Nadu,SC,1
+36,Male,Urban,Sikkim,SC,1
+51,Male,Rural,Tamil Nadu,General,1
+48,Female,Rural,Tamil Nadu,OBC,0
+22,Female,Rural,Assam,General,0
+60,Male,Rural,Himachal Pradesh,OBC,0
+20,Female,Rural,Andhra Pradesh,SC,0
+25,Female,Urban,Assam,ST,0
+77,Male,Rural,Nagaland,OBC,1
+71,Female,Rural,Jharkhand,SC,0
+31,Male,Rural,Manipur,SC,0
+85,Male,Rural,Jharkhand,ST,0
+45,Male,Urban,Sikkim,General,1
+58,Female,Urban,Manipur,ST,1
+54,Male,Urban,Mizoram,OBC,1
+27,Male,Rural,Telangana,OBC,1
+63,Female,Rural,Assam,SC,0
+63,Male,Rural,Haryana,General,0
+33,Female,Urban,Gujarat,SC,0
+67,Female,Urban,West Bengal,General,1
+67,Female,Rural,Haryana,General,0
+72,Female,Urban,Meghalaya,SC,1
+74,Male,Rural,Bihar,ST,0
+84,Female,Rural,Tripura,OBC,0
+80,Female,Rural,Tamil Nadu,OBC,0
+57,Male,Rural,Arunachal Pradesh,OBC,0
+71,Male,Urban,Gujarat,SC,1
+40,Female,Urban,Mizoram,OBC,0
+21,Female,Urban,Bihar,SC,0
+69,Male,Rural,Meghalaya,OBC,0
+85,Female,Rural,Madhya Pradesh,ST,0
+18,Female,Rural,Karnataka,ST,0
+26,Female,Urban,Punjab,ST,1
+22,Male,Urban,Karnataka,SC,1
+32,Female,Urban,Andhra Pradesh,SC,0
+53,Male,Rural,Meghalaya,General,0
+32,Female,Urban,Kerala,ST,0
+79,Female,Urban,Haryana,ST,1
+76,Male,Urban,Odisha,OBC,1
+36,Male,Urban,Maharashtra,General,1
+76,Female,Rural,Uttarakhand,ST,0
+45,Female,Urban,Sikkim,OBC,1
+22,Female,Rural,Gujarat,OBC,0
+36,Male,Rural,West Bengal,OBC,1
+52,Male,Urban,Maharashtra,OBC,1
+59,Male,Rural,West Bengal,ST,0
+68,Male,Rural,Nagaland,SC,0
+61,Male,Rural,Himachal Pradesh,General,1
+23,Male,Rural,Goa,SC,0
+52,Female,Urban,Tamil Nadu,General,0
+71,Female,Urban,West Bengal,General,1
+38,Female,Urban,Manipur,ST,1
+40,Female,Urban,Kerala,SC,0
+47,Female,Rural,Himachal Pradesh,ST,0
+21,Female,Rural,Manipur,SC,0
+34,Female,Urban,Nagaland,ST,0
+21,Female,Rural,Arunachal Pradesh,OBC,0
+66,Male,Rural,Haryana,General,1
+68,Male,Rural,Andhra Pradesh,ST,1
+32,Male,Urban,Bihar,SC,0
+52,Female,Urban,Manipur,General,1
+77,Female,Urban,Punjab,OBC,1
+33,Male,Urban,Arunachal Pradesh,ST,0
+27,Male,Urban,Uttar Pradesh,ST,1
+70,Female,Urban,Rajasthan,ST,1
+66,Male,Urban,Assam,ST,1
+30,Female,Urban,Nagaland,SC,1
+34,Female,Urban,Jharkhand,General,1
+62,Female,Urban,Maharashtra,OBC,1
+20,Female,Urban,Uttar Pradesh,General,1
+69,Female,Urban,Madhya Pradesh,SC,0
+85,Female,Urban,Meghalaya,ST,1
+65,Male,Urban,Goa,General,1
+38,Female,Rural,Rajasthan,SC,0
+36,Male,Urban,Andhra Pradesh,ST,1
+69,Male,Urban,Assam,ST,1
+21,Female,Rural,Tamil Nadu,ST,0
+51,Female,Rural,Odisha,SC,0
+41,Female,Urban,Kerala,ST,0
+20,Male,Urban,Uttarakhand,OBC,1
+75,Male,Rural,Uttar Pradesh,OBC,0
+63,Female,Rural,Arunachal Pradesh,General,0
+27,Female,Urban,Tripura,OBC,0
+53,Female,Rural,Meghalaya,General,0
+50,Female,Urban,Andhra Pradesh,ST,0
+23,Male,Rural,Tamil Nadu,General,1
+57,Male,Rural,Kerala,ST,1
+83,Male,Rural,Sikkim,ST,0
+82,Female,Rural,Gujarat,General,0
+25,Male,Rural,Gujarat,SC,1
+60,Female,Rural,Haryana,SC,0
+50,Male,Urban,Chhattisgarh,OBC,0
+43,Female,Urban,Gujarat,General,0
+71,Female,Rural,Tamil Nadu,SC,0
+60,Male,Rural,Punjab,ST,0
+72,Male,Rural,Punjab,OBC,0
+67,Male,Rural,Karnataka,SC,0
+80,Male,Rural,Arunachal Pradesh,ST,0
+69,Male,Urban,Goa,OBC,1
+29,Male,Rural,Jharkhand,OBC,0
+85,Female,Urban,Andhra Pradesh,ST,1
+36,Male,Urban,Manipur,OBC,0
+61,Male,Rural,Himachal Pradesh,General,1
+28,Female,Rural,Chhattisgarh,SC,0
+43,Female,Urban,Mizoram,ST,1
+33,Female,Urban,Tripura,SC,1
+68,Female,Rural,Gujarat,General,1
+61,Male,Urban,Haryana,SC,1
+79,Male,Urban,West Bengal,General,1
+59,Female,Rural,Bihar,OBC,0
+29,Female,Urban,Bihar,General,1
+50,Female,Urban,Gujarat,OBC,0
+44,Female,Rural,Odisha,General,0
+39,Male,Rural,West Bengal,General,0
+24,Female,Urban,Assam,General,0
+52,Male,Urban,Andhra Pradesh,SC,0
+68,Male,Rural,Tripura,ST,0
+44,Female,Rural,Uttarakhand,General,0
+44,Female,Urban,Nagaland,ST,1
+81,Male,Urban,Mizoram,ST,1
+60,Female,Rural,Andhra Pradesh,General,0
+71,Male,Rural,Bihar,General,0
+23,Male,Urban,Uttarakhand,General,1
+47,Female,Urban,Telangana,General,0
+41,Male,Urban,Kerala,General,1
+51,Female,Rural,Himachal Pradesh,SC,0
+26,Female,Urban,Meghalaya,ST,0
+61,Female,Rural,Odisha,OBC,0
+72,Male,Urban,Karnataka,ST,1
+47,Male,Rural,Maharashtra,OBC,0
+50,Female,Urban,Bihar,ST,0
+67,Female,Urban,Telangana,SC,0
+62,Male,Rural,Maharashtra,SC,0
+23,Female,Urban,Uttarakhand,SC,0
+78,Male,Urban,Andhra Pradesh,ST,1
+35,Male,Rural,Uttar Pradesh,SC,0
+43,Male,Rural,Punjab,SC,0
+76,Female,Rural,Andhra Pradesh,SC,0
+31,Male,Urban,Sikkim,OBC,0
+41,Female,Urban,Rajasthan,ST,0
+52,Female,Rural,Mizoram,General,0
+71,Female,Urban,Rajasthan,General,1
+37,Female,Rural,Uttar Pradesh,OBC,0
+21,Male,Rural,Telangana,OBC,0
+73,Female,Urban,Manipur,General,0
+30,Female,Rural,Nagaland,OBC,0
+25,Male,Urban,Odisha,ST,1
+23,Female,Urban,Manipur,SC,0
+62,Female,Urban,Meghalaya,General,1
+26,Male,Rural,Arunachal Pradesh,SC,0
+71,Male,Rural,Bihar,General,0
+69,Female,Rural,Mizoram,OBC,1
+65,Male,Urban,Haryana,General,1
+38,Female,Urban,Tripura,General,1
+57,Female,Urban,Andhra Pradesh,OBC,0
+80,Female,Urban,Uttar Pradesh,General,1
+42,Male,Rural,Goa,OBC,0
+62,Female,Rural,Sikkim,General,0
+84,Male,Urban,Uttar Pradesh,General,1
+80,Female,Rural,Odisha,OBC,0
+31,Female,Rural,Mizoram,OBC,0
+33,Female,Rural,Madhya Pradesh,ST,0
+30,Female,Urban,Tamil Nadu,ST,1
+22,Male,Rural,Rajasthan,SC,0
+18,Female,Rural,Karnataka,General,0
+68,Female,Rural,Chhattisgarh,General,0
+62,Female,Rural,Himachal Pradesh,SC,0
+48,Male,Rural,Uttarakhand,OBC,0
+40,Female,Rural,Telangana,General,0
+38,Female,Rural,Nagaland,OBC,0
+48,Female,Urban,Kerala,SC,0
+41,Male,Urban,Nagaland,OBC,0
+77,Male,Urban,Kerala,ST,1
+42,Male,Rural,Kerala,General,0
+78,Male,Rural,Bihar,SC,0
+80,Male,Rural,Odisha,OBC,0
+60,Male,Urban,Mizoram,OBC,1
+59,Female,Urban,Odisha,General,0
+23,Male,Urban,Karnataka,ST,1
+46,Female,Rural,Uttarakhand,SC,0
+56,Male,Urban,Kerala,SC,1
+57,Male,Rural,Karnataka,General,0
+48,Male,Rural,Telangana,General,0
+83,Male,Rural,Gujarat,ST,0
+38,Male,Rural,Jharkhand,General,0
+26,Female,Urban,Uttar Pradesh,OBC,1
+19,Male,Urban,Odisha,SC,1
+23,Female,Rural,Uttar Pradesh,OBC,0
+69,Male,Urban,Maharashtra,ST,1
+55,Female,Urban,Tripura,OBC,0
+62,Female,Urban,Haryana,ST,1
+61,Male,Rural,Gujarat,General,1
+69,Male,Urban,Rajasthan,ST,1
+45,Female,Rural,Arunachal Pradesh,SC,0
+85,Male,Rural,Assam,ST,0
+38,Male,Urban,Kerala,SC,0
+54,Male,Urban,Andhra Pradesh,SC,1
+21,Female,Rural,Uttar Pradesh,General,0
+40,Female,Rural,Uttarakhand,ST,0
