@@ -55,9 +55,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (82%), 1 (82%)  
      - Recall: 0 (87%), 1 (74%)  
      - F1-score: 0 (85%), 1 (78%)  
-
-
-![f11bbcf9-7534-4975-9611-4ae4f3ab5582](https://github.com/user-attachments/assets/fe92ca1a-b7db-4519-b9df-30dea7f3de6b)
+   ![XGBClassifier](https://github.com/user-attachments/assets/fe92ca1a-b7db-4519-b9df-30dea7f3de6b)
 
 2. **GradientBoostingClassifier**
    - **Best Parameters:**
@@ -73,7 +71,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (83%), 1 (82%)  
      - Recall: 0 (87%), 1 (76%)  
      - F1-score: 0 (85%), 1 (79%)  
-![fa5f6c55-58c9-400d-80c7-4a01ad7b32f3](https://github.com/user-attachments/assets/e4f89509-6df9-406a-9d9e-235c130f0b07)
+   ![GradientBoostingClassifier](https://github.com/user-attachments/assets/e4f89509-6df9-406a-9d9e-235c130f0b07)
 
 3. **RandomForestClassifier**
    - **Best Parameters:**
@@ -89,7 +87,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (82%), 1 (78%)  
      - Recall: 0 (84%), 1 (76%)  
      - F1-score: 0 (83%), 1 (77%)  
-![8d335143-a72e-431e-8e26-88dcabb92dd2](https://github.com/user-attachments/assets/199e3eed-7006-4fee-b15b-467ef299d172)
+   ![RandomForestClassifier](https://github.com/user-attachments/assets/199e3eed-7006-4fee-b15b-467ef299d172)
 
 4. **CatBoostClassifier**
    - **Best Parameters:**
@@ -104,7 +102,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (83%), 1 (83%)  
      - Recall: 0 (88%), 1 (75%)  
      - F1-score: 0 (85%), 1 (79%)  
-![d1e10349-5d32-4e85-9571-b25edf08f6f1](https://github.com/user-attachments/assets/2c0912f0-a757-415c-bddf-cb06aed55148)
+   ![CatBoostClassifier](https://github.com/user-attachments/assets/2c0912f0-a757-415c-bddf-cb06aed55148)
 
 5. **SVC**
    - **Best Parameters:**
@@ -117,7 +115,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (81%), 1 (71%)  
      - Recall: 0 (76%), 1 (77%)  
      - F1-score: 0 (79%), 1 (74%)  
-![1fc3a7a1-c226-4e69-a178-b46c16c76446](https://github.com/user-attachments/assets/7646a4fb-a270-4142-b164-75b68bb08287)
+   ![SVC](https://github.com/user-attachments/assets/7646a4fb-a270-4142-b164-75b68bb08287)
 
 6. **AdaBoostClassifier**
    - **Best Parameters:**
@@ -128,7 +126,7 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (83%), 1 (80%)  
      - Recall: 0 (86%), 1 (77%)  
      - F1-score: 0 (84%), 1 (79%)  
-![81fa6b52-8a73-461d-9cec-5bd79b281798](https://github.com/user-attachments/assets/2dd29e7e-c4d7-4e21-a879-6afe1a781ddc)
+   ![AdaBoostClassifier](https://github.com/user-attachments/assets/2dd29e7e-c4d7-4e21-a879-6afe1a781ddc)
 
 7. **Logistic Regression**
    - **Best Parameters (BayesSearchCV):**  
@@ -141,13 +139,13 @@ This preprocessing pipeline ensures that categorical data is encoded and numeric
      - Precision: 0 (81%), 1 (74%)  
      - Recall: 0 (80%), 1 (75%)  
      - F1-score: 0 (80%), 1 (74%)  
-![a75cf425-4eb2-4827-bbc1-06ec41764775](https://github.com/user-attachments/assets/a6f70bbd-9796-4788-a758-de6d9a38eb39)
+   ![Logistic Regression](https://github.com/user-attachments/assets/a6f70bbd-9796-4788-a758-de6d9a38eb39)
 
 ---
 
 ## Best Model
 
 The **CatBoostClassifier** emerged as the best-performing model based on BayesSearchCV, achieving an accuracy of **82.8%**. This model demonstrated the highest F1-scores for both classes and had well-balanced precision and recall metrics, making it the most reliable choice for the immunization prediction task.
-![image](https://github.com/user-attachments/assets/2b49f1b2-8903-47d8-8df6-6e786feba245)
+![Best Model](https://github.com/user-attachments/assets/2b49f1b2-8903-47d8-8df6-6e786feba245)
 
 ---
